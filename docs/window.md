@@ -48,6 +48,18 @@
 
 > 写一个SAO风格的右键菜单算是我的一个执念了，但是搜遍全网页找不到网页版的内容，于是我想起来多年前就用过的一款软件SAO Utils，可惜它虽然有完整的菜单逻辑，但是却是基于C语言写的。至多只能参考一些音效。
 
+[自定义右键菜单](https://dorakika.cn/p/20220118.html) - KIKA
+
+> 首先，想要一个右键菜单，就得向页面中插入一个Dom结构
+> 因为是右键唤醒菜单，与页面其他元素无关联，所以可以将此结构直接插入在body下
+> 适配于butterfly主题，即新建一个rightmenu.pug文件（见下方），位置放在layout文件夹中即可
+> 然后在themes/butterfly/layout/includes/layout.pug中引入（注意缩进）
+
 [Butterfly魔改：自定义右键菜单](https://blog.zhheo.com/p/5e931b65.html) - 张洪Heo
 
 > 看到很多魔改的小伙伴都自定义了右键菜单，例如糖果屋的saoUI右键菜单、volantis的右键菜单等等。最近发现DoraKika写了个右键菜单，风格简洁，看起来难度不大，所以修改了个样式就移植过来了。
+
+[butterfly博客自定义右键菜单升级版](https://yisous.xyz/posts/11eb4aac/) - LYX
+
+> 很久以前，Dorakika自己做了一个不错的右键菜单，借鉴于Volantis主题，当然我是在洪哥的博客里面看到的。
+>

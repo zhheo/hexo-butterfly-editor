@@ -20,6 +20,8 @@
 
 文章内容是基于或适用于Butterfly的魔改教程
 
+非自己创造的美化文章需要非完全转载，而是有自己的理解和改动（不能只简单小幅度改样式）
+
 ## 提交教程
 
 你可以通过提交[issues](https://github.com/zhheo/hexo-butterfly-editor/issues)来收录，可以一条issues提交多条链接，我会进行分类。

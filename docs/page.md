@@ -2,7 +2,9 @@
 
 给butterfly增加全新的页面，创建一个全新的功能。
 
-## 功能页
+## 页面生成
+
+原生butterfly不具备的页面，创造页面的美化。
 
 [给你的留言板添加一个弹幕吧](https://blog.leonus.cn/2022/danmaku.html) - Leonus
 
@@ -22,7 +24,32 @@
 
 > 之前关于哔哔的教程写的都很乱，并且因为哔哔和Twikoo可能造成的冲突问题导致很多都访问不了，经常出现缓存和无法加载的情况。最终还是用json加载的方式来做bb了。这篇教程可以作为最终版的哔哔教程了。（再也不想折腾这个东西了）
 
-## 页面定制
+[BBTalk魔改：让bbtalk的样式变成瀑布流](https://yisous.xyz/posts/70734559/) - LYX
+
+> 因为bbtalk默认的样式是时间轴（如图），但是我更喜欢瀑布流的样式（比如洪哥的），所以就写了一个简单的css用于修改样式。
+>
+
+[Hexo 博客文章统计图](https://blog.eurkon.com/post/1213ef82.html) - Eurkon
+
+> 本文教程主要针对 Hexo 博客，对博客的文章发布时间、文章分类、文章标签的维度绘制统计图，使用的是 ECharts 开源可视化库。具体效果可以点击本站的 统计--文章统计 页面查看。
+
+[添加一个留言弹幕页面](https://dorakika.cn/p/20220418.html) - KIKA
+
+> 本来是准备做一个留言的地方，这样一些与文章内容无关的留言有地方可以放了。但是又想着如果只是加一个带有评论的空白页面未免有些太单调了，于是就准备做一个弹幕展示框（灵感来源于找API时偶然遇到的韩小韩）
+
+[Butterfly主题的留言弹幕界面增强版（支持Twikoo、Waline、Valine）](https://yisous.xyz/posts/69707535/) - LYX
+
+> 后来发现这个留言弹幕有一些问题：
+>
+> 没有对昼夜两个模式作适配
+> 颜色比较花哨，自己不喜欢
+> 没有自动隐藏，会挡着真正的评论和一些按钮以及正文
+> 不支持Waline/Valine
+> 没有鼠标悬停暂停功能
+
+## 页面定制修改
+
+针对butterfly原生现有的页面进行修改的美化。
 
 [Butterfly魔改：404页面展示最近文章](https://blog.zhheo.com/p/f48e518b.html)  - 张洪Heo
 
@@ -35,3 +62,32 @@
 [Hexo博客标签的魔改](https://blog.leonus.cn/2022/tags.html) - Leonus
 
 > 逛别人博客时经常看见标签页后面加了一个数量，起初因为懒没弄，但是最近几天感觉标签确实有一点的不好看，于是决定改一下。
+
+[Butterfly 分类标签归档页增加文章索引](https://blog.eurkon.com/post/27df86b.html) - Eurkon
+
+> 本文教程主要针对 Hexo Butterfly 主题博客，基于原版主题增加文章索引可能不够美观，只是分享思路，有兴趣和有基础的小伙伴可以对此二次魔改。
+
+[Butterfly 分类标签导航栏](https://blog.eurkon.com/post/65b72006.html) - Eurkon
+
+> [Blogroot]\themes\butterfly\scripts\helpers\ 目录下新建文件 catalog_list.js，type 参数表示生成 分类导航栏 categories 还是 标签导航栏 tags，其中 <sup>${item.length}</sup> 是使用上标显示文章数量，可参考Butterfly 标签云增加文章数上下标。
+
+[给分类与标签页面添加导航栏](https://dorakika.cn/p/20220313.html) - KIKA
+
+> 在逛博客的过程中，发现几个小伙伴的标签\分类页面都有一个导航条，可以在标签\分类页面直接跳转到其他标签\分类
+>
+
+## 整站页面修改
+
+[Hexo Butterfly宽屏适配指北](https://yisous.xyz/posts/d1fc759/) - LYX
+
+> 现在随着显示器成本降低，越来越多的人都用上了大屏幕，这时博客的标准宽度就显得很憋屈了，空间利用率太低，无法充分展示博文内容。
+>
+> 而且看起来也不舒服，尤其是加了首页banner之后，我放出以前没有宽屏的博客版本（Vercel每次部署都有单独域名，好东西）
+>
+
+[让你的网站在一些日子中自动弹窗/灰屏](https://yisous.xyz/posts/7e9276a3/) - LYX
+
+> 今天是世界慰安妇纪念日，我都是意外知道的，就顺便编写了一个简单的js来怀念那些同胞们，在一些节日也会弹窗庆祝。
+>
+> 这个脚本使用cookie记录，保证不会多次弹窗影响浏览体验，支持传统节日和公历节日的计算。
+>

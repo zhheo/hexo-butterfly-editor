@@ -1,4 +1,5 @@
 module.exports = {
+  dest: 'public',
   title: 'Butterfly美化教程',
   description: '让每个人轻松的自定义自己的博客',
   themeConfig: {

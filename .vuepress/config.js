@@ -20,7 +20,7 @@ module.exports = {
     ],
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Github', link: '/guide/' }
+      { text: 'Github', link: 'https://github.com/zhheo/hexo-butterfly-editor' }
     ]
   }
 }

@@ -19,3 +19,10 @@
 [Hexo的Butterfly下自定义加载动画之小汽车动画的实现](https://blog.zhheo.com/p/32776e99.html) - 张洪Heo
 
 > 在Codepen中看到了一个推荐了好多天的无div动画，这个教程主要是来介绍如何在Hexo的Butterfly主题下使用这种无div动画并以这个小汽车为例。感谢原作者abxlfazl khxrshidi的小汽车！～
+
+## 加载条
+
+[给Butterfly加上顶部加载条](https://www.chuckle.top/article/13d6481a.html) - 轻笑Chuckle
+
+> 效果已在本站实装，切换页面顶部有加载进度条
+> 参考文章为Hexo博客添加顶部加载条

@@ -41,7 +41,7 @@
 
 ## 美化
 
-[生成封面图片主色来作为文章封面顶图](https://blog.zhheo.com/p/c86d8f1f.html) - Akilar
+[生成封面图片主色来作为文章封面顶图](https://blog.zhheo.com/p/c86d8f1f.html) - 张洪Heo
 
 > 本教程只介绍Hexo下的Butterfly主题的方案，其他可供参考，通用性强。
 > 需要七牛云图床，其他图床需能提供纯色API，使用方法雷同（使用js计算可能涉及到跨域等诸多问题）

@@ -19,3 +19,8 @@
 [Hexo错误：spawn failed的解决方法](https://blog.zhheo.com/p/128998ac.html) - 张洪Heo
 
 > 昨天部署的时候突然spawn failed，怎么部署都部署不上。后来折腾了好一会终于解决了这个报错问题。今天又发现群友有这个问题，所以写个文章来复盘一下。
+
+[博客搜索挂了解决方法](https://www.chuckle.top/article/f8c79a1b.html) - 轻笑Chuckle
+
+> 省流助手：删除所有local-search.js中下面这行代码
+> window.pjax && window.pjax.refresh($resultContent)

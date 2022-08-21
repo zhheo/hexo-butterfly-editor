@@ -12,6 +12,11 @@
 
 > 页脚电子钟计时(原生)
 
+[博客底部运行时间](https://blog.leonus.cn/2022/footer.html) - Leonus
+
+> 在糖果屋看到了这个底部运行时间，感觉还不错。
+> 不过作者是把底部的运行时间和那个徽标一起做成了一个插件，我下载之后发现其实这个时间只是插件的附带，主要的还是加徽标方便，然后我就把这个时间单独提了出来。
+
 [Add Github Badge](https://akilar.top/posts/e87ad7f8/) - Akilar
 
 > 添加Github徽标

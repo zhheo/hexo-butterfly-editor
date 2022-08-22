@@ -16,6 +16,7 @@ module.exports = {
       '/docs/aside',
       '/docs/window',
       '/docs/friendlink',
+      '/docs/footer',
       '/docs/font',
       '/docs/page',
       '/docs/function',

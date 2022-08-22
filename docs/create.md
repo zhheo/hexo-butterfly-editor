@@ -12,6 +12,18 @@
 >
 > 这篇文章也只是阐述我的理解，可能有个人的主观偏好。
 
+## 如何编写Markdown文件
+
+[Markdown 教程](https://www.jayhrn.com/posts/7b74/) - Jayhrn
+
+> Markdown 是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档。
+>
+> Markdown 语言在 2004 由约翰・格鲁伯（英语：John Gruber）创建。
+>
+> Markdown 编写的文档可以导出 HTML 、Word、图像、PDF、Epub 等多种格式的文档。
+>
+> Markdown 编写的文档后缀为 .md, .markdown。
+
 ## 创建自定义文件
 
 [Hexo 博客之 butterfly 主题优雅魔改系列](https://www.antmoe.com/posts/a811d614/) - DreamyTZK

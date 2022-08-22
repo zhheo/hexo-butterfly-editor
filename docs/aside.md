@@ -33,6 +33,14 @@
 
 > 基于@冰卡诺老师的项目修改。进行pjax适配。去除了jquery。新增夜间模式。
 
+[教程：hexo-electric-clock电子时钟插件](https://zfe.space/post/hexo-electric-clock.html) - 小冰
+
+> NPM 插件安装的部署方法
+
+[教程：hexo-history-calendar历史上的今天插件](https://zfe.space/post/hexo-history-calendar.html) - 小冰
+
+> NPM 插件安装的部署方法
+
 [Butterfly美化：今日诗词侧边栏小组件，中国传统诗词文化](https://blog.zhheo.com/p/2ed9d8dd.html) - 张洪Heo
 
 > 之前公告显示的是微信公众号的关注，但是因为微信的诸多限制和微信的生态以至于我不是很想再做公众号相关的东西了。因为我的作者组件完全替代了公告的功能，所以我将公告移除了。但是这带来了一点问题，就是在显示的时候总是缺点什么。那么就来做个新的组件吧！
@@ -47,3 +55,4 @@
 [Butterfly主题的一些侧边栏插件](https://yisous.xyz/posts/4ae2ec41/) - LYX
 
 > 之前弄了一些插件，糖果屋的群友们也找我问了问，所以我就顺便写了个文章介绍一下这些插件吧。
+

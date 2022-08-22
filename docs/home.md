@@ -4,6 +4,8 @@ butterfly提供了令人惊艳的首页展示，很多小伙伴都是被首页�
 
 ## 组件
 
+在文章顶部添加一些自定义的组件用来展示信息。
+
 [首页磁贴](https://akilar.top/posts/a9131002/) - Akilar
 
 > 本项目是对冰卡诺老师写的教程：基于Butterfly主题的分类磁贴2.0版进行重构，去除了所有繁杂的引入js的过程，所以也就无需引入jquery和vue，也完美支持pjax。当前4.0版本可以自动获取分类及文章数。封面和描述配置项直接嵌入配置文件。支持自定义行数，超过自动切换为滚动显示。可选择三列或四列显示。
@@ -12,9 +14,17 @@ butterfly提供了令人惊艳的首页展示，很多小伙伴都是被首页�
 
 > 本项目是对冰卡诺老师写的教程：基于Butterfly主题的轮播手动置顶文章进行重构，精简了部分样式。适配pjax。
 
+[教程：hexo-swiper 文章置顶插件](https://zfe.space/post/hexo-swiper.html) - 小冰
+
+> NPM 插件安装的部署方法
+
 [gitcalendar](https://akilar.top/posts/1f9c68c9/) - Akilar
 
 > 基于[@冰卡诺](https://zfe.space/)老师的项目做了微调。进行`pjax`适配，提取配置项。转换成插件化配置，通过配置文件开关控制各类样式资源的引入。补全自建API的部署教程。
+
+[教程：hexo-githubcalendar 插件 1.0](https://zfe.space/post/hexo-githubcalendar.html) - 小冰
+
+> 最近在各个群友的催促下，小冰也不再咕咕咕了，首先第一弹则是经典魔改作品 githubcalendar 的插件化。鉴于对主题进行过度魔改会大大增加更新的难度以及主题作者的维护难度，本着简化更新步骤及降低魔改难度的目的，小冰特此学习了如***一般的 hexo api 文档，并在@lete 乐特老师的帮助下艰难的适配了 pjax（谁叫金牌售后@akilar被万恶的 mc 给拐跑了，可怜的小冰只好自己适配 pjax 了）。虽说插件目前还有些小 bug，但日常使用基本没啥问题，也欢迎提出 pr。
 
 [Butterfly魔改：动态分类条，可以根据页面变化而改变的分类列表展示方式](https://blog.zhheo.com/p/bc61964d.html) - 张洪Heo
 
@@ -22,7 +32,17 @@ butterfly提供了令人惊艳的首页展示，很多小伙伴都是被首页�
 >
 > 这个分类条非常简约，原生js。魔改需要自己具备一定的魔改基础。
 
+[教程：hexo-swiper文章置顶插件](https://zfe.space/post/hexo-swiper.html) - 小冰
+
+> NPM 插件安装的部署方法
+
+[教程：hexo-magnet 插件 1.0](https://zfe.space/post/hexo-magnet.html) - 小冰
+
+> 其实这个插件和hexo-swiper-bar几天前就写好了，但是我懒，所以没写教程。
+
 ## 文章卡片
+
+文章卡片的样式可以自定义成自己喜欢的。
 
 [首页文章卡片修改](https://akilar.top/posts/df7fa23b/) - Akilar
 
@@ -41,3 +61,7 @@ butterfly提供了令人惊艳的首页展示，很多小伙伴都是被首页�
 [Butterfly给首页首个文章卡片加个class](https://www.chuckle.top/article/dbde845d.html) - 轻笑Chuckle
 
 > 看@heo的博客首页，他的第一个文章卡片是其余卡片宽度的两倍，F12可知是首页的首个文章卡片多了一个class，虽然我的文章卡片暂时没这需求，但刚好有人问怎么才能控制首页第一个文章卡片的样式，也刚好我有思路，就实现一下吧
+
+[教程：butterfly主题文章双栏布局插件](https://zfe.space/post/hexo-butterfly-article-double-row.html) - 小冰
+
+> NPM 插件安装的部署方法

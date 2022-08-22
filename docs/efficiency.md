@@ -24,3 +24,7 @@
 
 > 省流助手：删除所有local-search.js中下面这行代码
 > window.pjax && window.pjax.refresh($resultContent)
+
+[解决 Hexo 中渲染 MathJax 数学公式问题](https://www.jayhrn.com/posts/ee56/) - Jayhrn
+
+> 最近这几天开始准备数学建模比赛了，于是便接触到了许多的数学公式，俗话说

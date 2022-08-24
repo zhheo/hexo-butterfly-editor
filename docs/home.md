@@ -32,10 +32,6 @@ butterfly提供了令人惊艳的首页展示，很多小伙伴都是被首页�
 >
 > 这个分类条非常简约，原生js。魔改需要自己具备一定的魔改基础。
 
-[教程：hexo-swiper文章置顶插件](https://zfe.space/post/hexo-swiper.html) - 小冰
-
-> NPM 插件安装的部署方法
-
 [教程：hexo-magnet 插件 1.0](https://zfe.space/post/hexo-magnet.html) - 小冰
 
 > 其实这个插件和hexo-swiper-bar几天前就写好了，但是我懒，所以没写教程。

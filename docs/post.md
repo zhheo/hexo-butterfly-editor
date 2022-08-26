@@ -90,3 +90,9 @@
 [Twikoo魔改样式分享-博客评论系统的定制皮肤](https://blog.zhheo.com/p/8b1dde4c.html) - 张洪Heo
 
 > 魔改了一下Twikoo的样式，拿出来分享一下，喜欢的可以搞一手。推荐用官方的。
+
+[给你的评论添加一个输入提醒吧](https://blog.leonus.cn/2022/inputAlert.html) - Leonus
+
+> 适用于twikoo，其他评论系统改一下应该也可以使用
+>
+> 实现很简单，全是css，直接在自定义css文件内添加即可，不会使用自定义css文件的看这个教程：Hexo博客添加自定义css和js文件

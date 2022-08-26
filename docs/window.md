@@ -62,4 +62,11 @@
 [butterfly博客自定义右键菜单升级版](https://yisous.xyz/posts/11eb4aac/) - LYX
 
 > 很久以前，Dorakika自己做了一个不错的右键菜单，借鉴于Volantis主题，当然我是在洪哥的博客里面看到的。
->
+
+## 搜索
+
+[algolia的简单美化和优化记录](https://blog.leonus.cn/2022/algolia.html) - Leonus
+
+> 之前就在用algolia，但是搜索却有一点点问题——只能搜索标题，不能搜索内容。
+> 今天看群里在聊algolia，于是就问了问，从 [@CC](https://blog.ccknbc.cc/) 的文章里得到了答案：`我用的插件不对`。
+> 好家伙，之前没怎么详细了解，完全不知道插件的区别。

@@ -30,6 +30,10 @@
 
 **排序注意**：如果你的魔改与其他人相近或者有改进，提交pr时应将你的文章放在相似魔改的文章下方，而不是整篇文章底部。
 
+## 个人维护
+
+目前本人仅通过[「鱼塘」](https://blog.zhheo.com/moments/)[「issues」](https://github.com/zhheo/hexo-butterfly-editor/issues)[「pr」](https://github.com/zhheo/hexo-butterfly-editor/pulls)「企鹅群反馈」的方式更新此文档。
+
 ## 上手要求
 
 在开始之前，你已经：

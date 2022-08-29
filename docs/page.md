@@ -10,6 +10,12 @@
 
 > 懒得打字了，直接开始教程
 
+[弹幕升级版——全屏弹幕](https://blog.leonus.cn/2022/barrage.html) - Leonus
+
+> 之前写了一个简单的留言板弹幕功能：[给你的留言板添加一个弹幕吧](https://blog.leonus.cn/2022/danmaku.html)，20天过去了，越看越觉得不够高端大气上档次，于是就重新找了一个弹幕项目写一下。
+> 项目地址：[jquery.barrager.js 专业的网页弹幕插件](https://github.com/yaseng/jquery.barrager.js)
+> 看名字就知道，我们需要引入jq，不过问题不大，我们只是单页引入。
+
 [Hexo的Butterfly魔改：即刻短文静态部署版 ](https://blog.zhheo.com/p/557c9e72.html)- 张洪Heo
 
 > 腾讯云已经跑路了，挂在腾讯云函数的twikoo已经私有部署了，还剩下一个即刻短文还跑在腾讯云开发的服务上。

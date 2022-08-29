@@ -1,6 +1,6 @@
 module.exports = {
   dest: 'public',
-  title: 'Butterfly美化教程',
+  title: 'Butterfly主题美化教程',
   description: '让每个人轻松的自定义自己的博客',
   head: [
     ['link', { rel: 'icon', href: '/favicon.png' }]

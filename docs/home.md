@@ -32,6 +32,10 @@ butterfly提供了令人惊艳的首页展示，很多小伙伴都是被首页�
 >
 > 这个分类条非常简约，原生js。魔改需要自己具备一定的魔改基础。
 
+[Hexo博客 | 动态分类标签条，自动获取全站分类与标签进行展示](https://blog.justlovesmile.top/posts/2bfb1caa.html) - Justlovesmile
+
+> 本文是对Heo博主写的Butterfly魔改：动态分类条，可以根据页面变化而改变的分类列表展示方式文章的补充，增加了动态标签条，并且可以自动获取全站分类和标签名称。
+
 [教程：hexo-magnet 插件 1.0](https://zfe.space/post/hexo-magnet.html) - 小冰
 
 > 其实这个插件和hexo-swiper-bar几天前就写好了，但是我懒，所以没写教程。

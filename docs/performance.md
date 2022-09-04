@@ -10,6 +10,12 @@
 
 ## 网络速度
 
+[目前可用cdn整理](https://anzhiy.cn/posts/fe76.html) - 安知鱼
+
+> 可用npm镜像
+> jsDelivr
+> https://cdn.jsdelivr.net/npm
+
 [Butterfly CDN链接更改指南，替换jsdelivr提升访问速度](https://blog.zhheo.com/p/790087d9.html) - 张洪Heo
 
 > 使用错误的cdn会导致博客服务无法访问，访问速度过慢的问题。因为众所周知的原因jsdelivr无法使用了，但是替换cdn不知道替换成什么比较好。使用新版butterfly的用户可以切换成本地模式，但是如果是旧版butterfly用户的话或者新版想要提升速度就需要第三方的cdn了。

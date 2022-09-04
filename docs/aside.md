@@ -37,6 +37,10 @@
 
 > NPM 插件安装的部署方法
 
+[给butterfly添加侧边栏电子钟](https://anzhiy.cn/posts/fc18.html) - 安知鱼
+
+> 如果有安装店长的插件版侧边栏电子钟（与店长的电子钟冲突），在博客根目录`[Blogroot]`下打开终端，运行以下指令
+
 [教程：hexo-history-calendar历史上的今天插件](https://zfe.space/post/hexo-history-calendar.html) - 小冰
 
 > NPM 插件安装的部署方法

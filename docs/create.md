@@ -14,7 +14,7 @@
 
 ## 如何编写Markdown文件
 
-[Markdown 教程](https://www.jayhrn.com/posts/7b74/) - Jayhrn
+[Markdown 教程](https://blog.jayhrn.com/posts/7b74/) - Jayhrn
 
 > Markdown 是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档。
 >

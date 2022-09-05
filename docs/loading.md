@@ -4,6 +4,8 @@
 
 ## 动画样式
 
+构建自定义的加载动画。
+
 [修改加载动画内容](https://akilar.top/posts/3d221bf2/) - Akilar
 
 > 相比旧版教程，优势在于可以根据配置项内的指定选项加载对应样式。
@@ -21,6 +23,8 @@
 > 在Codepen中看到了一个推荐了好多天的无div动画，这个教程主要是来介绍如何在Hexo的Butterfly主题下使用这种无div动画并以这个小汽车为例。感谢原作者abxlfazl khxrshidi的小汽车！～
 
 ## 加载条
+
+构建自定义的加载进度条。
 
 [给Butterfly加上顶部加载条](https://www.chuckle.top/article/13d6481a.html) - 轻笑Chuckle
 

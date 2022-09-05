@@ -4,6 +4,8 @@
 
 ## 搭建知识
 
+如何开始构建我的博客？
+
 [我应该怎么设计我的博客？如何搭建一个体验好的博客？](https://blog.zhheo.com/p/30c885b3.html) - 张洪Heo
 
 > 我似乎从来都没有说过这方面的理论，只说过一些局部功能的设计原因和魔改。在网上大多也都是组件的魔改。这篇文章我想写一个纯理论的文章，以我现在的博客为例子，引申出博客的设计思考。
@@ -13,6 +15,8 @@
 > 这篇文章也只是阐述我的理解，可能有个人的主观偏好。
 
 ## 如何编写Markdown文件
+
+Hexo基础教程，Markdown的编写。
 
 [Markdown 教程](https://blog.jayhrn.com/posts/7b74/) - Jayhrn
 
@@ -25,6 +29,8 @@
 > Markdown 编写的文档后缀为 .md, .markdown。
 
 ## 创建自定义文件
+
+通过创建并引用自定义文件成为魔改的开始。
 
 [Hexo 博客之 butterfly 主题优雅魔改系列](https://www.antmoe.com/posts/a811d614/) - DreamyTZK
 

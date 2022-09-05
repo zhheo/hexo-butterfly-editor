@@ -4,6 +4,8 @@
 
 ## 悬浮窗口
 
+网站弹窗、悬浮内容的创造。	
+
 [活用githubAPI获取仓库commits作为更新日志](https://akilar.top/posts/13a399e3/) - Akilar
 
 > 弹窗的实现非常的简单。直接fetch，然后依次读出github API返回的json内的message，最后把这个message拼接一下，作为弹窗内容就好了。记得`:username`和`:reponame`要改成自己的用户名和私有仓库名哦。然后`14000000sfxzd93430000000bfb13a00000babf2`也就是你的`token`内容也要记得改成自己的token，申请的时候需要给予repo栏的所有权限才行。
@@ -22,17 +24,23 @@
 
 ## 悬浮动画
 
+悬浮在页面的动画。
+
 [添加白天夜间模式转换动画](https://akilar.top/posts/d9550c81/) - Akilar
 
 > 其实这个动画切换效果不是第一次看到了，最早看到是在一些volantis主题的用户博客那里，比如银河小徐那里，百度了一下也搜到过volantis相关的魔改教程，当时没当回事，直到在今年勇那里想到了相对完善的源码，不过他嵌入的不是很完美，按钮在一个比较尴尬的地方。和我的副标题重合了，js也是依赖于jquery的，和最新版butterfly去jquery的理念相悖，所以心血来潮对这个教程做下完善，顺便去jquery。
 
 ## 悬浮宠物/看板娘
 
+悬浮在页面的具备观赏性的内容创造。
+
 [Live2d Widget](https://akilar.top/posts/5b8f515f/) - Akilar
 
 > 最早的时候看别人的博客很多都有一个可爱的看板娘，然后就找了教程给自己也整了一个。因为找到的教程都是稂莠不齐的，原作者自己说的也略显含糊（其实是我自己看不懂）。总之秉承着一如既往的小白风格。把网上的教程做个整合。
 
 ## 右键菜单
+
+自定义你的右键菜单。
 
 [环形右键菜单](https://akilar.top/posts/8eb79430/) - Akilar
 
@@ -64,6 +72,8 @@
 > 很久以前，Dorakika自己做了一个不错的右键菜单，借鉴于Volantis主题，当然我是在洪哥的博客里面看到的。
 
 ## 搜索
+
+搜索功能的自定义。
 
 [algolia的简单美化和优化记录](https://blog.leonus.cn/2022/algolia.html) - Leonus
 

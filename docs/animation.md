@@ -4,6 +4,8 @@
 
 ## 动画效果
 
+博客自定义的动画展示。
+
 [Add Blog Animation -- Wowjs](https://akilar.top/posts/abab51cf/) - Akilar
 
 > 已发布插件版，具体配置方案请参看插件文档。

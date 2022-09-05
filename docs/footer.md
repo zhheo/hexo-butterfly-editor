@@ -4,6 +4,8 @@
 
 ## 组件
 
+在页脚添加自己的组件。
+
 [Footer Timer](https://akilar.top/posts/192af77f/) - Akilar
 
 > 页脚翻页时钟计时（jquery）

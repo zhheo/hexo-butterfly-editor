@@ -4,11 +4,15 @@
 
 ## 外挂标签
 
+通过外挂标签可以让文章的markdown插件渲染出你自己自定义的样式。使用外挂标签可以避免每次使用样式都要使用大量html代码的问题。
+
 [Tag Plugins Plus](https://akilar.top/posts/615e2dec/) - Akilar
 
 > 已发布插件版，具体配置方案请参看插件文档。
 
 ## 新的页面组件
+
+魔改作者自己创造的页面组件，原主题并没有改功能。
 
 [butterfly文章页面上下篇按钮UI调整](https://akilar.top/posts/b77e1c58/) - Akilar
 
@@ -45,12 +49,14 @@
 >
 > 同样，我们可以在博客中添加这个功能，后续我可能也会增加一个收藏功能（或者说是直接整一个账号登录？用静态网页搞登录作死的博主是屑）
 >
+
 [Github样式代码高亮并上传到gist](https://xlenco.eu.org/posts/8fce.html) - Xlenco
 
 > 本教程，可以让你在hexo中体验到github的代码高亮，总体来说十分的好看。
->
 
 ## 定制组件
+
+原主题已有功能的修改和深度定制。
 
 [生成封面图片主色来作为文章封面顶图](https://blog.zhheo.com/p/c86d8f1f.html) - 张洪Heo
 
@@ -62,6 +68,8 @@
 > 本文用于 butterfly 魔改，博主没有测试是否适配于其他主题，以及自定义样式 CSS 可能需要一定的前端知识进行优化。 _config.butterfly.yml 配置文件可修改显示 文字描述（文章 description 属性）还是 文章内容（默认截取 500 字），以及推荐文章数量。
 
 ## 评论
+
+博客已有的评论功能修改。
 
 [twikoo评论块气泡风格魔改美化](https://akilar.top/posts/d99b5f01/) - Akilar
 

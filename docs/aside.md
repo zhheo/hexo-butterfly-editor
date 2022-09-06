@@ -70,3 +70,11 @@
 [Butterfly主题侧边小组件——文章地址 Qrcode](https://blog.w03.cc/p/2022/ad188120.html) - Wmz1024
 
 > 🥴 
+
+## 侧边栏定制
+
+根据主题已有的功能进行深度化定制。
+
+[【Hexo-Butterfly】修改侧边栏分类排序规则](https://sheerkvc.top/2022/09/05/sidebarReSort/) - Kevin Chen
+
+> `Hexo-Butterfly`主题中，主页侧边栏中的`categories`默认显示顺序是按`name`排序，导致某些分类下虽然文章数量较少，但却排序靠前。并且默认设置下，主题中侧边`categories`只显示8条（如需修改可以修改**主题配置文件**），这在某些情况下让我的强迫症犯了主页分类不太实用，遂产生修改侧边栏`categories`的想法：按每个`categories`下文章数量降序排序。

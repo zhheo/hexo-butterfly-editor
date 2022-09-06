@@ -28,6 +28,10 @@ Hexo基础教程，Markdown的编写。
 >
 > Markdown 编写的文档后缀为 .md, .markdown。
 
+[建立个人博客（四）—— md文章&编辑器](https://sheerkvc.top/2022/08/30/markdown&typora/) - Kevin Chen
+
+> 我们现在要开始一个博客最主体的部分——***文章***，而博客的文章通常都是.md文件转码为html，因此我们需要了解和学会markdown相关的语法及如何使用编辑器。
+
 ## 创建自定义文件
 
 通过创建并引用自定义文件成为魔改的开始。
@@ -48,3 +52,11 @@ Hexo基础教程，Markdown的编写。
 > 引入魔改样式的方法很简单，自建一个css文件，然后引入即可。
 >
 > 以butterfly主题为例。可以在[Blogroot]\themes\butterfly\source\css\目录下新建custom.css文件，然后在[Blogroot]\_config.butterfly.yml的inject配置项中引入自定义样式文件。
+
+## 域名
+
+一个好的域名是个良好的开始。
+
+[建立个人博客（六）—— 域名](https://sheerkvc.top/2022/08/30/blog's%20domain/) - Kevin Chen
+
+> 在此之前，你只能通过`你的用户名.github.io`来访问你的博客网站，要让个人博客更具辨识力，我们就要设置一个具有自己风格的域名。还是以阿里云为例。

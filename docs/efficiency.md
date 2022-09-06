@@ -49,3 +49,11 @@
 > npm config set registry https://registry.npm.taobao.org
 >
 > npm config set registry https://registry.npmjs.org/
+
+## 图床
+
+对文章图片展示的服务支持。
+
+[建立个人博客（五）—— 图床](https://sheerkvc.top/2022/08/30/photos%20bed/) - Kevin Chen
+
+> 理所当然的，一篇文章里需要有图片来加以形象的说明实例。在远端博客中，我们不可能把用到的所有图片全部塞到仓库中，因此我们需要一个`gallery in cloud`帮我们储存相对应的图片以供阅读时加载。国内外都有很多图床服务商提供对象储存服务，对于初学等级，这里以国内的阿里云OOS对象储存服务作为参考，也可以为下面的域名打一些基础。

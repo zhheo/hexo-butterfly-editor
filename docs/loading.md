@@ -22,6 +22,10 @@
 
 > 在Codepen中看到了一个推荐了好多天的无div动画，这个教程主要是来介绍如何在Hexo的Butterfly主题下使用这种无div动画并以这个小汽车为例。感谢原作者abxlfazl khxrshidi的小汽车！～
 
+[Heo同款loading动画](https://anzhiy.cn/posts/52d8.html) - 安知鱼
+
+> 昨天看到洪哥的加载动画很奇特，就只有一个头像，之前一直以为洪哥没有加载动画~~原来是加载太快看不到~~
+
 ## 加载条
 
 构建自定义的加载进度条。

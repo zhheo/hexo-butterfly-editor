@@ -58,6 +58,7 @@ module.exports = {
       {
         hostname: 'https://butterfly.zhheo.com'
       }
-    ]
+    ],
+    ['vuepress-plugin-baidu-autopush']
   ]
 }

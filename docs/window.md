@@ -89,3 +89,9 @@
 
 > 我们需要给按钮添加一个元素来存放内容，可以选择使用js插入，不过我还是觉得改源码简单方便。
 > 修改文件`themes\butterfly\layout\includes\rightside.pug`，在最下面插入如下两行代码（注意去掉前面的`+`号，别傻呼呼的直接复制粘贴）
+
+[Butterfly右下角悬浮菜单栏魔改指南](https://blog.leonus.cn/2022/rightside.html) - Leonus
+
+> 最近折腾了一下右下角悬浮菜单，在这里简单的写写魔改的思路，顺便列出一些适合添加在此处的功能。
+> 魔改文件路径：**themes\butterfly\layout\includes\rightside.pug**
+> 如果你有更实用的功能或者其他建议欢迎留言告知。

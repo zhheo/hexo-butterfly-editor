@@ -1,5 +1,7 @@
 # 人人都可以去自定义
 
+![](/img/cover.webp)
+
 基于Butterfly的组件美化教程合集
 
 ## 介绍

@@ -132,6 +132,10 @@
 >
 > 有需要的小伙伴可以自取。
 
+[极简风格回复邮件样式模板 | Twikoo](https://blog.btwoa.com/4849469a/) - btwoa
+
+> Twikoo的默认模板主题色是蓝色，方方正正的，和我博客风格不太搭，于是搞了个极简风格的
+
 ### 部署方法
 
 [Twikoo私有部署记录](https://blog.leonus.cn/2022/twikoo.html) - Leonus

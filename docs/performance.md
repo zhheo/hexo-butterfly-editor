@@ -23,3 +23,7 @@
 [Butterfly CDN链接更改指南，替换jsdelivr提升访问速度](https://blog.zhheo.com/p/790087d9.html) - 张洪Heo
 
 > 使用错误的cdn会导致博客服务无法访问，访问速度过慢的问题。因为众所周知的原因jsdelivr无法使用了，但是替换cdn不知道替换成什么比较好。使用新版butterfly的用户可以切换成本地模式，但是如果是旧版butterfly用户的话或者新版想要提升速度就需要第三方的cdn了。
+
+[使用 CDN 加速你的博客吧](https://blog.panghai.top/posts/a154400e/) - 心流
+
+> CDN，即内容分发网络，它使用户就近获取所需内容，降低网络拥塞，提高用户访问响应速度和命中率。我们可以借助 CDN 来加速我们的网站以达到提高用户访问速度以及隐蔽真实 ip 的效果。

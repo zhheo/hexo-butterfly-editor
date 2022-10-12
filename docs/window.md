@@ -95,3 +95,9 @@
 > 最近折腾了一下右下角悬浮菜单，在这里简单的写写魔改的思路，顺便列出一些适合添加在此处的功能。
 > 魔改文件路径：**themes\butterfly\layout\includes\rightside.pug**
 > 如果你有更实用的功能或者其他建议欢迎留言告知。
+
+## 进度条
+
+[为你的Butterfly添加顶部加载进度条](https://xlenco.eu.org/posts/769f.html) - Xlenco
+
+> 引入 css

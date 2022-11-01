@@ -15,6 +15,8 @@
 > 此教程参考 🧊Akilar の糖果屋 🍭，转载需注明出处。Github Action 简介
 > Github Action 是 GitHub 于 2018 年 10 月推出的一个 CI\CD 服务。
 
+## 统计
+
 [51la统计体验报告：很全面的惊喜，Butterfly适配51la统计](https://blog.zhheo.com/p/c7c43433.html) - 张洪Heo
 
 > 感觉说删就删让我产生了危机感，我其实对数据存储安全都非常敏感。一般我的文件都会保存三份以上的备份（比如微信聊天记录就存了三份，每周更新备份），这种说删就删让我感到一丝丝恐惧了。
@@ -63,3 +65,9 @@
 [为Hexo部署在线编辑器 | Qexo](https://blog.btwoa.com/2qe37d61/) - btwoa
 
 > Qexo项目日趋完善，准备重新部署并对全部过程进行记录，本篇就是使用Qexo创建编辑发布的
+
+## 订阅
+
+[安装 RSS 插件实现订阅](https://imbhj.com/c2535796/) - Ordis
+
+> 因为我是 Butterfly 主题，所以已经集成了 rss 功能，所以设置到这一步就可以了。如果你的主题里面没有 rss 相关设置，也可以添加如下代码：

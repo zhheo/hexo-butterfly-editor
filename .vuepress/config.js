@@ -43,6 +43,7 @@ module.exports = {
     ],
     lastUpdated: '最近更新时间', // string | boolean
     smoothScroll: true,
+    sidebarDepth: 2,
   },
   plugins: [
     [

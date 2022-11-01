@@ -2,7 +2,7 @@
 
 在你已经有了魔改能力，那么就需要会通过自定义的文件来进行魔改。以下文章可以教授你如何分清资源关系并自己创建魔改css和js。
 
-## 搭建知识
+## 博客理论
 
 如何开始构建我的博客？
 
@@ -14,9 +14,35 @@
 >
 > 这篇文章也只是阐述我的理解，可能有个人的主观偏好。
 
-## 如何编写Markdown文件
+## Hexo入门
 
-Hexo基础教程，Markdown的编写。
+如果你对Hexo还一无所知，可以通过Akilar提供的Hexo入门任务来进行Hexo入门学习。
+
+### 搭建Hexo
+
+[博客本地搭建教程](https://akilar.top/posts/6ef63e2d/) - Akilar
+
+> 根据博客搭建教程完成博客的本地搭建，配合github完成线上部署。
+
+### 选择主题
+
+[挑选你的主题](https://butterfly.js.org/) - Jerry
+
+> 挑选一款合适的主题，推荐使用Butterfly主题，跟随主题文档完成基本配置。
+
+### 必要配置
+
+[Hexo 博客生成永久链接](https://imbhj.com/b6a99401/) - Ordis
+
+> Hexo 文章链接默认的生成规则是：`:year/:month/:day/:title`，是按照年、月、日、标题来生成的。
+>
+> 这样的话，生成的链接非常长长长长长，而且如果我们的 Markdown 使用中文标题，那就更惨了，URL 一转码，将是一场灾难。
+
+### 创建文章
+
+[新建一篇文章](https://hexo.io/zh-cn/docs/writing) - Hexo
+
+> 在根目录下打开终端,使用 hexo new post新建一篇文章。可以在/source/_post/目录下找到新建的文章。可以通过修改/scaffolds/post.md的模板内容来改变默认生成的文章格式。
 
 [Markdown 教程](https://blog.jayhrn.com/posts/7b74/) - Jayhrn
 
@@ -32,7 +58,7 @@ Hexo基础教程，Markdown的编写。
 
 > 我们现在要开始一个博客最主体的部分——***文章***，而博客的文章通常都是.md文件转码为html，因此我们需要了解和学会markdown相关的语法及如何使用编辑器。
 
-## 创建自定义文件
+## 创建自定义文件（魔改的开始）
 
 通过创建并引用自定义文件成为魔改的开始。
 
@@ -57,6 +83,6 @@ Hexo基础教程，Markdown的编写。
 
 一个好的域名是个良好的开始。
 
-[建立个人博客（六）—— 域名](https://sheerkvc.top/2022/08/30/blog's%20domain/) - Kevin Chen
+[建立个人博客（六）—— 域名](https://sheerkvc.top/2022/08/30/13.blog's%20domain/) - Kevin Chen
 
 > 在此之前，你只能通过`你的用户名.github.io`来访问你的博客网站，要让个人博客更具辨识力，我们就要设置一个具有自己风格的域名。还是以阿里云为例。

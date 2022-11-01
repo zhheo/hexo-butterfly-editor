@@ -6,7 +6,39 @@
 
 ## 介绍
 
-这个网站是通过一些基础的教程可以让你入门Butterfly魔改，也可以让喜欢Butterfly的博主用上自己想要的功能。
+这个网站是通过一些基础的教程可以让你入门Butterfly魔改，也就是定制你自己的Butterfly主题。适合那些不满足于Butterfly配置的小伙伴们。也可以让喜欢Butterfly的博主用上自己想要的功能。
+
+## 魔改效果
+
+Butterfly是一个自定义性非常高的主题，并且有大量的用户使用，生态非常完善。你可以根据教程来复刻效果，也可以根据修改的内容调整参数，实现属于你自己的魔改。
+
+**原生Butterfly**
+
+[CrazyWong](https://crazywong.com/)
+
+![Jerry](https://p.zhheo.com/BLf7G423891181667291198698.png!blogimg)
+
+**以下经过魔改的博客均为Butterfly主题。**
+
+[张洪Heo](https://blog.zhheo.com/)
+
+![Acrylic](https://p.zhheo.com/OzQimm23191181667291251479.png!blogimg)
+
+[Akilar](https://akilar.top/)
+
+![SAOUI](https://p.zhheo.com/HYfddG22891181667291308104.png!blogimg)
+
+[冰卡诺](https://zfe.space/)
+
+![Z_4](https://p.zhheo.com/szRPpO22191181667291361824.png!blogimg)
+
+[贰猹](https://noionion.top/)
+
+![贰猹](https://p.zhheo.com/ZlWysf20891181667291408374.png!blogimg)
+
+[leonus](https://blog.leonus.cn/)
+
+![leonus](https://p.zhheo.com/PYLvwm24891181667291568802.png!blogimg)
 
 ## 项目目的
 

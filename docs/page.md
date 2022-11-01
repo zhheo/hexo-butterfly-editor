@@ -6,6 +6,10 @@
 
 原生butterfly不具备的页面，创造页面的美化。
 
+[友链朋友圈5 - 我的部署历程与主题样式分享](https://blog.zhheo.com/p/4e18a507.html) - 张洪Heo
+
+> 友链朋友圈已经是一个历史悠久的项目了，这次yyyz开发了全新版本为这个老项目焕发生机。
+
 [给你的留言板添加一个弹幕吧](https://blog.leonus.cn/2022/danmaku.html) - Leonus
 
 > 懒得打字了，直接开始教程

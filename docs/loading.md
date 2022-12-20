@@ -34,3 +34,6 @@
 
 > 效果已在本站实装，切换页面顶部有加载进度条
 > 参考文章为Hexo博客添加顶部加载条
+
+[为你的Butterfly添加顶部加载进度条](https://xlenco.eu.org/posts/769f.html) - Xlenco
+> 胶囊💊样式顶部加载进度条

@@ -38,6 +38,8 @@
 
 ## PWA
 
+网站可以变成APP。
+
 [Hexo 博客开启 PWA 功能](https://imbhj.com/cecbe2d2/) - Ordis
 
 > 使用前先了解一下什么是 PWA：
@@ -45,3 +47,28 @@
 > PWA（Progressive Web App）是一种理念，使用多种技术来增强 web app 的功能，可以让网站的体验变得更好，能够模拟一些原生功能，比如通知推送。在移动端利用标准化框架，让网页应用呈现和原生应用相似的体验。
 >
 > PWA 不能包含原生 OS 相关代码。PWA 仍然是网站，只是在缓存、通知、后台功能等方面表现更好。Electron 程序相当于包裹 OS 原生启动器（Launcher）的网站，未来，许多 Electron 程序可能转化为 PWA。
+
+[Butterfly 主题 的 PWA 实现方案](https://xlenco.eu.org/posts/89e6.html) - Xlenco
+
+> PWA 是 Google 于 2016 年提出的概念，于 2017 年正式落地，于 2018 年迎来重大突破，全球顶级的浏览器厂商，Google、Microsoft、Apple 已经全数宣布支持 PWA 技术。
+> PWA 全称为 Progressive Web App，中文译为渐进式 Web APP，其目的是通过各种 Web 技术实现与原生 App 相近的用户体验。
+
+## PJAX
+
+站点内网页切换无需重新加载网页。
+
+[适配指北：我是怎么适配PJAX的](https://yisous.xyz/posts/30bce1d1/) - Ariasaka
+
+> 昨天爆肝（主要是昨天下午没课）适配了pjax，当时把这个任务当成一个长期任务，没想到很快就搞定了，修改量也不是很大。
+
+[不开pjax的APlayer不中断解决方案](https://yisous.xyz/posts/614f1131/) - Ariasaka
+
+> 最近心血来潮加了个aplayer，但是这个aplayer的体验特炸裂------每次刷新页面都得停止播放。对于我这种文章较短的站来说非常难受，于是我试了试pjax——————更炸裂了，说说、日历、轮播、弹幕等等一堆bug。
+
+## 懒加载
+
+只在滚动到图片时加载图片。
+
+[butterfly控制特定图片懒加载](https://anzhiy.cn/posts/192f.html) - 安知鱼
+
+> 经常看我博客的同学应该不难发现我的文章顶图偶尔进来以后还要等一会才能出现，还有加载动画的图片偶尔加载不出来，后来经过我一系列的排查发现居然是懒加载的缘故。

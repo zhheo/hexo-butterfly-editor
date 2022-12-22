@@ -50,6 +50,10 @@
 >
 > 在改友链的时候突然想到为什么不能用与butterfly相同的yml生成方式呢？
 
+[即刻短文（瀑布流）部署方案](https://anzhiy.cn/posts/c248.html) - 安知鱼
+
+> 注意 ⚠️ 该教程仅为博主目前使用的方法, 如需移植还需自行修改 css 变量, 以下为博主自用 css 变量, 可自行修改为自己喜欢的颜色。
+
 [Hexo-Butterfly说说朋友圈适配（哔哔 for 腾讯云）自用](https://blog.zhheo.com/p/a6947667.html) - 张洪Heo
 
 > 之前关于哔哔的教程写的都很乱，并且因为哔哔和Twikoo可能造成的冲突问题导致很多都访问不了，经常出现缓存和无法加载的情况。最终还是用json加载的方式来做bb了。这篇教程可以作为最终版的哔哔教程了。（再也不想折腾这个东西了）
@@ -81,6 +85,13 @@
 [Hexo 博客增加哔哩哔哩追番页面](https://imbhj.com/7ef0253b/) - Ordis
 
 > 在站点的配置文件 `_config.yml` 里添加：
+
+## 关于
+
+[butterfly魔改关于页面](https://anzhiy.cn/posts/e62b.html) - 安知鱼
+
+> 添加 about 页面
+> 新建 source/about/index.md
 
 ## 页面定制修改
 

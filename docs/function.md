@@ -2,6 +2,12 @@
 
 通过自定义js函数为butterfly添加额外的扩展功能。
 
+## API
+
+[开箱即用，支持跨域的 hexo 博客 api](https://blog.im0o.top/posts/d3bc8dff.html) - 0o酱
+
+> 支持跨域、随意开关接口的 hexo 博客 api 插件。
+
 ## 功能开发
 
 原主题不具备的功能通过自定义js来实现。

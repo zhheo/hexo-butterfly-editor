@@ -79,3 +79,9 @@ butterfly提供了令人惊艳的首页展示，很多小伙伴都是被首页�
 [教程：butterfly主题文章双栏布局插件](https://zfe.space/post/hexo-butterfly-article-double-row.html) - 小冰
 
 > NPM 插件安装的部署方法
+
+[同时支持置顶和隐藏文章的 hexo 生成器插件](https://blog.im0o.top/posts/3ff4be18.html) - 0o酱
+
+> 支持置顶与隐藏文章的 [Hexo](http://hexo.io/) 首页生成器插件。
+>
+> 在官方的首页生成器的基础上添加了使用 `top` 置顶文章和 `hide` 隐藏文章的功能。

@@ -54,6 +54,10 @@ butterfly提供了令人惊艳的首页展示，很多小伙伴都是被首页�
 >
 > 具体效果如下
 
+[源计划-方舟：首页轮播图](https://akilar.top/posts/658f52d0/) - Akilar
+
+> 本篇讨论的轮播图的配置项可能与[hexo-butterfly-swiper](https://www.npmjs.com/package/hexo-butterfly-swiper)插件的配置项有冲突，如果您曾经安装过该插件或者该插件的衍生插件(例如anzhiyu、anzhiyupro、allbs、ihao、lyx、btmuli,~~一查才知道已经有这么多亚种了吗~~)。请确保您已经卸载了它们。
+
 ## 文章卡片
 
 文章卡片的样式可以自定义成自己喜欢的。
@@ -85,3 +89,7 @@ butterfly提供了令人惊艳的首页展示，很多小伙伴都是被首页�
 > 支持置顶与隐藏文章的 [Hexo](http://hexo.io/) 首页生成器插件。
 >
 > 在官方的首页生成器的基础上添加了使用 `top` 置顶文章和 `hide` 隐藏文章的功能。
+
+[源计划-方舟：首页卡片](https://akilar.top/posts/140eec09/) - Akilar
+
+> 本篇需要用到iconfont作为卡片底部的装饰性图标。请先完成前置教程：[Hexo引入阿里矢量图标库](https://akilar.top/posts/d2ebecef/)，务必确保symbol方案能够使用后再进行下方内容。

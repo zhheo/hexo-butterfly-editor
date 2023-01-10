@@ -147,6 +147,9 @@
 
 > 看@heo的博客单页，无论是哔哔，友链，还是关于页，page的背景都是透明的，一开始我以为是在单页的index.md里单独引入css，后来才知道，是直接#page{background:transparent;},这只会让所有非文章、归档、分类、标签的单页背景透明。
 
+[源计划-方舟：存储卡样式标签](https://akilar.top/posts/934cd448/) - Akilar
+
+> 新建`[Blogroot]\themes\butterfly\scripts\helpers\ark_tag.js`,这个的功能就是按照hexo给的tag数据集编译出我们需要的tag单元。
 
 ## 整站页面修改
 

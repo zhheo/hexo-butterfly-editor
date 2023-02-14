@@ -92,7 +92,7 @@
 
 ## 鼠标样式
 
-[给博客添加哇酷哇酷的阿尼亚鼠标指针](https://xlenco.eu.org/posts/bdfd.html) - Xlenco
+[给博客添加哇酷哇酷的阿尼亚鼠标指针](https://blog.xlenco.top/posts/bdfd.html) - Xlenco
 
 > 四月新番，间谍过家家早已完结。不知道各位被哇酷哇酷的阿尼亚可爱到呢？反正博主被可爱到了!
 
@@ -133,6 +133,6 @@
 
 ## 进度条
 
-[为你的Butterfly添加顶部加载进度条](https://xlenco.eu.org/posts/769f.html) - Xlenco
+[为你的Butterfly添加顶部加载进度条](https://blog.xlenco.top/posts/769f.html) - Xlenco
 
 > 引入 css

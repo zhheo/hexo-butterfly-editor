@@ -48,7 +48,7 @@
 >
 > PWA 不能包含原生 OS 相关代码。PWA 仍然是网站，只是在缓存、通知、后台功能等方面表现更好。Electron 程序相当于包裹 OS 原生启动器（Launcher）的网站，未来，许多 Electron 程序可能转化为 PWA。
 
-[Butterfly 主题 的 PWA 实现方案](https://xlenco.eu.org/posts/89e6.html) - Xlenco
+[Butterfly 主题 的 PWA 实现方案](https://blog.xlenco.top/posts/89e6.html) - Xlenco
 
 > PWA 是 Google 于 2016 年提出的概念，于 2017 年正式落地，于 2018 年迎来重大突破，全球顶级的浏览器厂商，Google、Microsoft、Apple 已经全数宣布支持 PWA 技术。
 > PWA 全称为 Progressive Web App，中文译为渐进式 Web APP，其目的是通过各种 Web 技术实现与原生 App 相近的用户体验。

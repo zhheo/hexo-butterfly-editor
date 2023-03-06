@@ -79,6 +79,10 @@
 
 > 本文教程主要针对 Hexo 博客，对博客的文章发布时间、文章分类、文章标签的维度绘制统计图，使用的是 ECharts 开源可视化库。具体效果可以点击本站的 统计--文章统计 页面查看。
 
+[hexo-hot-article](https://zhangshier.vip/posts/12205/) - 张时贰
+
+> 基于百度统计实现网站的访客数量、阅读文章、访客地图的三个统计图
+
 ### 音乐
 
 [添加音乐页面](https://www.chuckle.top/article/3322c8a8.html) - 轻笑Chuckle

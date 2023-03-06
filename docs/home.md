@@ -58,6 +58,14 @@ butterfly提供了令人惊艳的首页展示，很多小伙伴都是被首页�
 
 > 本篇讨论的轮播图的配置项可能与[hexo-butterfly-swiper](https://www.npmjs.com/package/hexo-butterfly-swiper)插件的配置项有冲突，如果您曾经安装过该插件或者该插件的衍生插件(例如anzhiyu、anzhiyupro、allbs、ihao、lyx、btmuli,~~一查才知道已经有这么多亚种了吗~~)。请确保您已经卸载了它们。
 
+[新版首页轮播图](https://blog.marcus233.top/p/hometop2.html) - Marcus
+
+> 给博客添加首页轮播图
+
+[首页轮播图](https://blog.marcus233.top/p/hometop.html) - Marcus
+
+> 添加 hometop
+
 ## 文章卡片
 
 文章卡片的样式可以自定义成自己喜欢的。

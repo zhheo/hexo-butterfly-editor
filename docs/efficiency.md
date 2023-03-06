@@ -23,6 +23,18 @@
 > 此教程参考 🧊Akilar の糖果屋 🍭，转载需注明出处。Github Action 简介
 > Github Action 是 GitHub 于 2018 年 10 月推出的一个 CI\CD 服务。
 
+[Hexo 自动化部署](https://zhangshier.vip/posts/8779/) - 张时贰
+
+> Github Action部署方案：主要是方案三的方法
+> 原方案二中包含Gitee Page部署，没什么用在方案三中剃掉了
+> 方案三中包含私有仓库推送Github Page、服务器、Gitee二次私有备份以及SEO（借助乐特的插件实现）、CDN的刷新
+
+[修复 Vercel/Github Actions 部署 hexo 导致文章的更新时间错误](https://blog.im0o.top/posts/c6d9de72.html) - 0o酱
+
+> 在使用 `Vercel` 或 `Github Actions` 自动化部署 hexo 博客时会发现所有文章的更新时间都变成了此次提交修改的时间，但实际上这些文章是没有任何修改的。
+>
+> 这是因为 `git` 在推送更新的时候不会保存文件的访问时间、修改时间等元信息。
+
 ## 统计
 
 [51la统计体验报告：很全面的惊喜，Butterfly适配51la统计](https://blog.zhheo.com/p/c7c43433.html) - 张洪Heo
@@ -83,3 +95,7 @@
 [安装 RSS 插件实现订阅](https://imbhj.com/c2535796/) - Ordis
 
 > 因为我是 Butterfly 主题，所以已经集成了 rss 功能，所以设置到这一步就可以了。如果你的主题里面没有 rss 相关设置，也可以添加如下代码：
+
+[Hexo插件 | 直接复制markdown | 一秒转载](https://www.crowhsu.top/posts/6e818316.html) - Charles Hsu
+
+> 一个Hexo插件，允许你直接从网页复制markdown，主要为butterfly主题开发，但**基本的复制功能是通用的**。

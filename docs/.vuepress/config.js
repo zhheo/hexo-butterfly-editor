@@ -3,7 +3,7 @@ module.exports = {
   title: 'Butterfly主题美化教程',
   description: '让每个人轻松的自定义自己的博客',
   head: [
-    ['link', { rel: 'icon', href: '/favicon.png' }],
+    ['link', { rel: 'icon', href: 'https://bu.dusays.com/2023/03/03/6401a795245ff.png' }],
     [
       'script', {}, `
       var _hmt = _hmt || [];
@@ -19,7 +19,7 @@ module.exports = {
   ]
   ],
   themeConfig: {
-    logo: '/favicon.png',
+    logo: 'https://bu.dusays.com/2023/03/03/6401a795245ff.png',
     sidebar: [
       ['/Introduction','简介'],
       '/create',

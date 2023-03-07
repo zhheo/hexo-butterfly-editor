@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /img/logo.png
+heroImage: https://bu.dusays.com/2023/03/03/6401a7934a918.png
 actionText: 立即上手 →
 actionLink: /Introduction
 features:

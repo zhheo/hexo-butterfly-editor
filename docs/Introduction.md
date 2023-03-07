@@ -1,6 +1,6 @@
 # 人人都可以去自定义
 
-![](/img/cover.webp)
+![](https://bu.dusays.com/2023/03/07/64069fa1348b0.webp)
 
 基于Butterfly的组件美化教程合集
 
@@ -14,7 +14,7 @@ Butterfly是一个自定义性非常高的主题，并且有大量的用户使�
 
 **原生Butterfly**
 
-[CrazyWong](https://crazywong.com/)
+[CrazyWong](https://blog.crazywong.com/)
 
 ![Jerry](https://p.zhheo.com/BLf7G423891181667291198698.png!blogimg)
 
@@ -80,6 +80,6 @@ Butterfly是一个自定义性非常高的主题，并且有大量的用户使�
 
 ## 交流群
 
-![](/img/qrcode.jpg)
+![](https://bu.dusays.com/2023/03/07/64069f8caa8ea.jpg)
 
-群问题答案：`akilar.top`
+**群问题答案**：`akilar.top`

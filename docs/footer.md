@@ -27,16 +27,13 @@
 
 > 本文提供了两种方式，一种为本地的方式，一种为iconfont的方式。
 
-[Butterfly 主题页脚美化](https://blog.jayhrn.com/posts/1799/) - Jayhrn
+[Butterfly 主题页脚美化](https://blog.jayhrn.com/posts/eaf618d9.html) - Jayhrn
 
 > 最近有小伙伴问到能不能出下关于页脚美化的教程，最近忙于数学建模，没有时间，这不今天搞完了，可以继续写写这方面的东西。
 >
 > 总的来说，其实这些美化都不是自己的想法（艺术细胞少了），大多数的样式什么的都来自张洪 Heo，我感觉他设计的样式十分符合我的审美。本博客基本上就是参照他的博客进行修改的。
 >
 > 对于页脚的美化，我基本上全是按照他的来的。
-
-[Butterfly主题卡片式页脚](http://crowhsu.top/posts/c822e518.html) - 枢衡Hsu
-> 之前根据 Jayhrn的 Butterfly主题页脚美化修改了本博客的页脚，最近放假比较闲，刚好可以复健一下前端…… 所以对页脚做了一些简单的修改
 
 [源计划-方舟：页脚边框](https://akilar.top/posts/e26d2aae/) - Akilar
 

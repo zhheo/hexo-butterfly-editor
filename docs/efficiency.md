@@ -23,7 +23,7 @@
 > 此教程参考 🧊Akilar の糖果屋 🍭，转载需注明出处。Github Action 简介
 > Github Action 是 GitHub 于 2018 年 10 月推出的一个 CI\CD 服务。
 
-[Hexo 自动化部署](https://zhangshier.vip/posts/8779/) - 张时贰
+[Hexo 自动化部署](https://zhsher.cn/posts/8779/) - 张时贰
 
 > Github Action部署方案：主要是方案三的方法
 > 原方案二中包含Gitee Page部署，没什么用在方案三中剃掉了
@@ -56,7 +56,7 @@
 > 省流助手：删除所有local-search.js中下面这行代码
 > window.pjax && window.pjax.refresh($resultContent)
 
-[解决 Hexo 中渲染 MathJax 数学公式问题](https://blog.jayhrn.com/posts/ee56/) - Jayhrn
+[解决 Hexo 中渲染 MathJax 数学公式问题](https://blog.jayhrn.com/posts/6be4ed10.html) - Jayhrn
 
 > 最近这几天开始准备数学建模比赛了，于是便接触到了许多的数学公式，俗话说
 
@@ -72,11 +72,19 @@
 >
 > npm config set registry https://registry.npmjs.org/
 
+[Buttterfly重装记录 - 数据记录](https://meuicat.com/blog/3/) - 爱吃肉的猫
+
+> 在原本的项目上 进行Hexo的升级 和插件依赖的更新
+
+> 升级前请 备份！ 备份！ 备份！
+> 有较大的改动一定要备份 而且更新Hexo存在很多不可控因素 哪怕更新成功了也一定要保留一份备份以备不时之需
+> 做好备份就可以开始更新框架工作
+
 ## 图床
 
 对文章图片展示的服务支持。
 
-[建立个人博客（五）—— 图床](https://sheerkvc.top/2022/08/30/photos%20bed/) - Kevin Chen
+[建立个人博客（五）—— 图床](https://sheerkvc.top/2022/08/30/12.photos%20bed/) - Kevin Chen
 
 > 理所当然的，一篇文章里需要有图片来加以形象的说明实例。在远端博客中，我们不可能把用到的所有图片全部塞到仓库中，因此我们需要一个`gallery in cloud`帮我们储存相对应的图片以供阅读时加载。国内外都有很多图床服务商提供对象储存服务，对于初学等级，这里以国内的阿里云OOS对象储存服务作为参考，也可以为下面的域名打一些基础。
 
@@ -95,6 +103,8 @@
 [安装 RSS 插件实现订阅](https://imbhj.com/c2535796/) - Ordis
 
 > 因为我是 Butterfly 主题，所以已经集成了 rss 功能，所以设置到这一步就可以了。如果你的主题里面没有 rss 相关设置，也可以添加如下代码：
+
+## 功能
 
 [Hexo插件 | 直接复制markdown | 一秒转载](https://www.crowhsu.top/posts/6e818316.html) - Charles Hsu
 

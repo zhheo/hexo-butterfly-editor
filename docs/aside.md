@@ -68,15 +68,6 @@
 
 > 之前弄了一些插件，糖果屋的群友们也找我问了问，所以我就顺便写了个文章介绍一下这些插件吧。
 
-[Butterfly主题侧边小组件——土味情话](https://hassanwong.top/posts/ca8261d0/) - hassanwong
-
-> 前言：
-> 逛了逛Eurkon的博客，看着那微博热搜侧边栏突然灵机一动，本想整一个随机笑话侧边小组件，奈何找免费 API 时先看到了土味情话，不错，很符合我的胃口，于是有了以下教程
-
-[Butterfly主题侧边小组件——文章地址 Qrcode](https://blog.w03.cc/p/2022/ad188120.html) - Wmz1024
-
-> 🥴 
-
 [源计划-方舟：作者卡片](https://akilar.top/posts/f08df520/) - Akilar
 
 > 再次声明，源计划-方舟的内容都是我尝试最近学到的新内容，试验我自己的想法而进行的。我目前的计划是尽快的把自己所思所想实现出来。所以没有足够的精力去把教程做成小白也能看懂的样子。
@@ -91,14 +82,19 @@
 
 > 这次的设计尝试解决了一下之前遇到的clip-path切割后默认自带overflow:hidden的问题。通过渐变色属性linear-gradient(to bottom,transparent 30px,color 31px,color)切割出一段透明的背景，而另外半边正常配色。这样我就可以实现背景的局部透明。这时候再去操作内部元素，我就不用傻乎乎的沿着需要镶嵌的边切割两次了，卡片标题还能跟随标题文字长度做简单的自适应。
 
-[Hexo + Butterfly 侧边栏公众号](https://tzy1997.com/articles/hexo1618/) - Ethan.Tzy
+[Hexo + Butterfly 侧边栏公众号](https://fe32.top/articles/hexo1618/) - Ethan.Tzy
 
 > 这里用 4.5.1 版本跑了【侧边栏公众号】的功能，主题是新拉的，未过多美化，只是为了验证下该功能有没有问题。如果你在使用此功能时遇见了 BUG ，请检查card_wx.pug是否正确引入以及custom.css是否正确引入。
+
+[个性定位欢迎语](https://meuicat.com/blog/42/#%E4%B8%AA%E6%80%A7%E5%AE%9A%E4%BD%8D%E6%AC%A2%E8%BF%8E%E8%AF%AD) - 爱吃肉的猫
+
+> 给侧边栏加上个`来访者`栏目
+> 显示来访者的信息，并显示欢迎语
 
 ## 侧边栏定制
 
 根据主题已有的功能进行深度化定制。
 
-[【Hexo-Butterfly】修改侧边栏分类排序规则](https://sheerkvc.top/2022/09/05/sidebarReSort/) - Kevin Chen
+[【Hexo-Butterfly】修改侧边栏分类排序规则](https://sheerkvc.top/2022/09/05/17.sidebarReSort/) - Kevin Chen
 
 > `Hexo-Butterfly`主题中，主页侧边栏中的`categories`默认显示顺序是按`name`排序，导致某些分类下虽然文章数量较少，但却排序靠前。并且默认设置下，主题中侧边`categories`只显示8条（如需修改可以修改**主题配置文件**），这在某些情况下让我的强迫症犯了主页分类不太实用，遂产生修改侧边栏`categories`的想法：按每个`categories`下文章数量降序排序。

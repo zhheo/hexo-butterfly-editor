@@ -35,7 +35,8 @@ module.exports = {
       '/page',
       '/function',
       '/performance',
-      '/efficiency'
+      '/efficiency',
+      '/error'
     ],
     nav: [
       { text: '首页', link: '/' },

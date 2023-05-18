@@ -24,7 +24,7 @@
 > 项目地址：[jquery.barrager.js 专业的网页弹幕插件](https://github.com/yaseng/jquery.barrager.js)
 > 看名字就知道，我们需要引入jq，不过问题不大，我们只是单页引入。
 
-[添加一个留言弹幕页面](https://dorakika.cn/p/20220418.html) - KIKA
+[添加一个留言弹幕页面](https://blog.dorakika.cn/post/20220418/) - KIKA
 
 > 本来是准备做一个留言的地方，这样一些与文章内容无关的留言有地方可以放了。但是又想着如果只是加一个带有评论的空白页面未免有些太单调了，于是就准备做一个弹幕展示框（灵感来源于找API时偶然遇到的韩小韩）
 
@@ -73,13 +73,18 @@
 
 > 看到群里大佬都有说说，羡慕的紧，而且自己很早之前就把博客当成自己的秘密小窝，但是自己技术有限，不会搭建，就一直搁置了，昨天在群里看到康纳百川和 flexiston 大佬的，就赶紧去找了插件，骚操作一番，哎嗨，我也有了，有生之年系列，太开心了
 
+[即刻短文【iCat阉割版】](https://meuicat.com/blog/42/#%E5%8D%B3%E5%88%BB%E7%9F%AD%E6%96%87) - 爱吃肉的猫
+
+> 对安知鱼的教程做了优化，并调整了样式以及响应的JS处理
+> Butterfly 即刻短文 完全版部署方案 参考 -  [@张洪Heo](https://blog.zhheo.com/)
+
 ### 统计
 
 [Hexo 博客文章统计图](https://blog.eurkon.com/post/1213ef82.html) - Eurkon
 
 > 本文教程主要针对 Hexo 博客，对博客的文章发布时间、文章分类、文章标签的维度绘制统计图，使用的是 ECharts 开源可视化库。具体效果可以点击本站的 统计--文章统计 页面查看。
 
-[hexo-hot-article](https://zhangshier.vip/posts/12205/) - 张时贰
+[hexo-hot-article](https://zhsher.cn/posts/12205/) - 张时贰
 
 > 基于百度统计实现网站的访客数量、阅读文章、访客地图的三个统计图
 
@@ -110,6 +115,15 @@
 > 就会发现一个很大的问题——致谢板块的打赏按钮无法使用
 > 为此12月21日一整天，我都在找解决方案...
 
+[关于页面魔改](https://meuicat.com/blog/42/#%E5%85%B3%E4%BA%8E%E9%A1%B5%E7%BE%8E%E5%8C%96) - 爱吃肉的猫
+
+> 整合了Styl样式
+> 对HiPeach的教程做了整改优化，并调整了样式以及响应的JS处理
+
+[聊天记录页](https://meuicat.com/blog/42/#%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E9%A1%B5%E9%9D%A2) - 爱吃肉的猫
+
+> 每刻の感动瞬间 - 记录 文字的力量
+
 ## 页面定制修改
 
 针对butterfly原生现有的页面进行修改的美化。
@@ -138,7 +152,7 @@
 
 > [Blogroot]\themes\butterfly\scripts\helpers\ 目录下新建文件 catalog_list.js，type 参数表示生成 分类导航栏 categories 还是 标签导航栏 tags，其中 <sup>${item.length}</sup> 是使用上标显示文章数量，可参考Butterfly 标签云增加文章数上下标。
 
-[给分类与标签页面添加导航栏](https://dorakika.cn/p/20220313.html) - KIKA
+[给分类与标签页面添加导航栏](https://blog.dorakika.cn/post/20220313/) - KIKA
 
 > 在逛博客的过程中，发现几个小伙伴的标签\分类页面都有一个导航条，可以在标签\分类页面直接跳转到其他标签\分类
 >
@@ -154,6 +168,11 @@
 [源计划-方舟：存储卡样式标签](https://akilar.top/posts/934cd448/) - Akilar
 
 > 新建`[Blogroot]\themes\butterfly\scripts\helpers\ark_tag.js`,这个的功能就是按照hexo给的tag数据集编译出我们需要的tag单元。
+
+[页面顶部banner栏](https://meuicat.com/blog/36/#%E9%AD%94%E6%94%B9%E9%A1%B5%E5%89%8D%E7%BD%AE) - 爱吃肉的猫
+
+> 给页面定制个banner栏，可在文章配置项里配置是否显示
+> 样式参考 [@张洪Heo](https://blog.zhheo.com/)
 
 ## 整站页面修改
 

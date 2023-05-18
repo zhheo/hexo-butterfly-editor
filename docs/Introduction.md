@@ -78,8 +78,10 @@ Butterfly是一个自定义性非常高的主题，并且有大量的用户使�
 
 达成要求了吗？那我们开始吧！
 
-## 交流群
+## QQ频道
 
-**群问题答案**：`akilar.top`
+你可以加入QQ频道进行提问或者帮助其他小伙伴构建博客。
 
-![](https://bu.dusays.com/2023/03/07/64069f8caa8ea.jpg)
+点击链接加入QQ频道【张洪Heo】：[立即加入频道](https://pd.qq.com/s/c0cy521vs)
+
+![](https://bu.dusays.com/2023/05/16/646346c59f6c1.png)

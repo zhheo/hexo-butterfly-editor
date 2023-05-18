@@ -24,7 +24,7 @@
 > 项目地址：[jquery.barrager.js 专业的网页弹幕插件](https://github.com/yaseng/jquery.barrager.js)
 > 看名字就知道，我们需要引入jq，不过问题不大，我们只是单页引入。
 
-[添加一个留言弹幕页面](https://dorakika.cn/p/20220418.html) - KIKA
+[添加一个留言弹幕页面](https://blog.dorakika.cn/post/20220418/) - KIKA
 
 > 本来是准备做一个留言的地方，这样一些与文章内容无关的留言有地方可以放了。但是又想着如果只是加一个带有评论的空白页面未免有些太单调了，于是就准备做一个弹幕展示框（灵感来源于找API时偶然遇到的韩小韩）
 
@@ -79,7 +79,7 @@
 
 > 本文教程主要针对 Hexo 博客，对博客的文章发布时间、文章分类、文章标签的维度绘制统计图，使用的是 ECharts 开源可视化库。具体效果可以点击本站的 统计--文章统计 页面查看。
 
-[hexo-hot-article](https://zhangshier.vip/posts/12205/) - 张时贰
+[hexo-hot-article](https://zhsher.cn/posts/12205/) - 张时贰
 
 > 基于百度统计实现网站的访客数量、阅读文章、访客地图的三个统计图
 
@@ -138,7 +138,7 @@
 
 > [Blogroot]\themes\butterfly\scripts\helpers\ 目录下新建文件 catalog_list.js，type 参数表示生成 分类导航栏 categories 还是 标签导航栏 tags，其中 <sup>${item.length}</sup> 是使用上标显示文章数量，可参考Butterfly 标签云增加文章数上下标。
 
-[给分类与标签页面添加导航栏](https://dorakika.cn/p/20220313.html) - KIKA
+[给分类与标签页面添加导航栏](https://blog.dorakika.cn/post/20220313/) - KIKA
 
 > 在逛博客的过程中，发现几个小伙伴的标签\分类页面都有一个导航条，可以在标签\分类页面直接跳转到其他标签\分类
 >

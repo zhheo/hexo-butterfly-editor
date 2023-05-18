@@ -81,7 +81,7 @@
 
 ## 预加载
 
-[速度优化-css预加载](https://ezgx.tk/posts/47635/) - Echocbx
+[速度优化-css预加载](https://ezgx.tk/2023/47635/) - Echocbx
 
 > Ecx-project进行的过程中
 > 发现了一个问题

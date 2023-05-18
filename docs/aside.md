@@ -82,7 +82,7 @@
 
 > 这次的设计尝试解决了一下之前遇到的clip-path切割后默认自带overflow:hidden的问题。通过渐变色属性linear-gradient(to bottom,transparent 30px,color 31px,color)切割出一段透明的背景，而另外半边正常配色。这样我就可以实现背景的局部透明。这时候再去操作内部元素，我就不用傻乎乎的沿着需要镶嵌的边切割两次了，卡片标题还能跟随标题文字长度做简单的自适应。
 
-[Hexo + Butterfly 侧边栏公众号](https://tzy1997.com/articles/hexo1618/) - Ethan.Tzy
+[Hexo + Butterfly 侧边栏公众号](https://fe32.top/articles/hexo1618/) - Ethan.Tzy
 
 > 这里用 4.5.1 版本跑了【侧边栏公众号】的功能，主题是新拉的，未过多美化，只是为了验证下该功能有没有问题。如果你在使用此功能时遇见了 BUG ，请检查card_wx.pug是否正确引入以及custom.css是否正确引入。
 

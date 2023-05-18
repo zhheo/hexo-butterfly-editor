@@ -73,6 +73,11 @@
 
 > 看到群里大佬都有说说，羡慕的紧，而且自己很早之前就把博客当成自己的秘密小窝，但是自己技术有限，不会搭建，就一直搁置了，昨天在群里看到康纳百川和 flexiston 大佬的，就赶紧去找了插件，骚操作一番，哎嗨，我也有了，有生之年系列，太开心了
 
+[即刻短文【iCat阉割版】](https://meuicat.com/blog/42/#%E5%8D%B3%E5%88%BB%E7%9F%AD%E6%96%87) - 爱吃肉的猫
+
+> 对安知鱼的教程做了优化，并调整了样式以及响应的JS处理
+> Butterfly 即刻短文 完全版部署方案 参考 -  [@张洪Heo](https://blog.zhheo.com/)
+
 ### 统计
 
 [Hexo 博客文章统计图](https://blog.eurkon.com/post/1213ef82.html) - Eurkon
@@ -109,6 +114,15 @@
 > 但是，如果**完全按照知鱼的教程**进行魔改
 > 就会发现一个很大的问题——致谢板块的打赏按钮无法使用
 > 为此12月21日一整天，我都在找解决方案...
+
+[关于页面魔改](https://meuicat.com/blog/42/#%E5%85%B3%E4%BA%8E%E9%A1%B5%E7%BE%8E%E5%8C%96) - 爱吃肉的猫
+
+> 整合了Styl样式
+> 对HiPeach的教程做了整改优化，并调整了样式以及响应的JS处理
+
+[聊天记录页](https://meuicat.com/blog/42/#%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E9%A1%B5%E9%9D%A2) - 爱吃肉的猫
+
+> 每刻の感动瞬间 - 记录 文字的力量
 
 ## 页面定制修改
 
@@ -154,6 +168,11 @@
 [源计划-方舟：存储卡样式标签](https://akilar.top/posts/934cd448/) - Akilar
 
 > 新建`[Blogroot]\themes\butterfly\scripts\helpers\ark_tag.js`,这个的功能就是按照hexo给的tag数据集编译出我们需要的tag单元。
+
+[页面顶部banner栏](https://meuicat.com/blog/36/#%E9%AD%94%E6%94%B9%E9%A1%B5%E5%89%8D%E7%BD%AE) - 爱吃肉的猫
+
+> 给页面定制个banner栏，可在文章配置项里配置是否显示
+> 样式参考 [@张洪Heo](https://blog.zhheo.com/)
 
 ## 整站页面修改
 

@@ -72,6 +72,14 @@
 >
 > npm config set registry https://registry.npmjs.org/
 
+[Buttterfly重装记录 - 数据记录](https://meuicat.com/blog/3/) - 爱吃肉的猫
+
+> 在原本的项目上 进行Hexo的升级 和插件依赖的更新
+
+> 升级前请 备份！ 备份！ 备份！
+> 有较大的改动一定要备份 而且更新Hexo存在很多不可控因素 哪怕更新成功了也一定要保留一份备份以备不时之需
+> 做好备份就可以开始更新框架工作
+
 ## 图床
 
 对文章图片展示的服务支持。

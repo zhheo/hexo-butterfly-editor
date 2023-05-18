@@ -24,6 +24,12 @@
 >
 > 教程中没有支持配置项，如果你希望支持配置项的话可以自行修改。
 
+[友联链接页调整美化【少量魔改】](https://meuicat.com/blog/42/#%E5%8F%8B%E8%81%94%E9%A1%B5%E8%B0%83%E6%95%B4) - 爱吃肉的猫
+
+> 加入Tag标签显示
+> 调整了适配宽屏后的友联页样式，增加头像滚动效果，魔改PE端友联页样式
+> 部分样式参考 [@张洪Heo](https://blog.zhheo.com/) [@Leonus](https://blog.leonus.cn/)
+
 ## 友链朋友圈
 
 [鱼塘：我的友链朋友圈部署记录](https://blog.zhheo.com/p/51d34920.html) - 张洪Heo

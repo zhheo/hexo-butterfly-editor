@@ -132,6 +132,13 @@
 > 整合了Styl样式
 > 对HiPeach的教程做了整改优化，并调整了样式以及响应的JS处理
 
+## 好物
+
+[好物推荐页](https://meuicat.com/blog/42/#%E5%A5%BD%E7%89%A9%E6%8E%A8%E8%8D%90%E9%A1%B5) - 爱吃肉的猫
+
+> 参考 [@林木木木](https://immmmm.com/)
+> 适配yml静态以及json和memos
+
 ## 页面定制修改
 
 针对butterfly原生现有的页面进行修改的美化。

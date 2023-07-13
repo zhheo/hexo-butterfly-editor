@@ -62,7 +62,7 @@
 >
 > 注：如有新功能本文会继续进行更新。
 
-[即刻短文（瀑布流）部署方案](https://anzhiy.cn/posts/c248.html) - 安知鱼
+[即刻短文（瀑布流）部署方案](https://blog.anheyu.com/posts/c248.html) - 安知鱼
 
 > 注意 ⚠️ 该教程仅为博主目前使用的方法, 如需移植还需自行修改 css 变量, 以下为博主自用 css 变量, 可自行修改为自己喜欢的颜色。
 
@@ -115,7 +115,7 @@
 
 ## 关于
 
-[butterfly魔改关于页面](https://anzhiy.cn/posts/e62b.html) - 安知鱼
+[butterfly魔改关于页面](https://blog.anheyu.com/posts/e62b.html) - 安知鱼
 
 > 添加 about 页面
 > 新建 source/about/index.md

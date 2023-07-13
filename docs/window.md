@@ -27,7 +27,7 @@
 > 还有一种是安装插件，这个可以在文章中自定义样式，如此一来，只有当你点开文章的时候才能看到它。
 > 我个人比较倾向于第二种，但这里我都会说，事实上引用的不是同一个js的情况下，貌似也不冲突吧。
 
-[butterfly魔改aplayer音乐](https://anzhiy.cn/posts/6c69.html) - 安知鱼
+[butterfly魔改aplayer音乐](https://blog.anheyu.com/posts/6c69.html) - 安知鱼
 
 > 魔改有风险, 魔改前注意备份。此篇魔改需一定代码能力。
 
@@ -121,7 +121,7 @@
 > 今天看群里在聊algolia，于是就问了问，从 [@CC](https://blog.ccknbc.cc/) 的文章里得到了答案：`我用的插件不对`。
 > 好家伙，之前没怎么详细了解，完全不知道插件的区别。
 
-[butterfly魔改本地搜索预览图](https://anzhiy.cn/posts/968f.html) - 安知鱼
+[butterfly魔改本地搜索预览图](https://blog.anheyu.com/posts/968f.html) - 安知鱼
 
 > butterfly 自带的本地搜索配置方便所以便一直使用至今，不过有一个痛点就是没有搜索预览图，于是为了解决这个问题做了如下尝试。
 

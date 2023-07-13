@@ -8,7 +8,7 @@
 
 > Butterfly的友链太过单调了。加上之前正好移植了Volantis的一堆外挂标签样式，突发奇想用Site-card来写友链，效果相当理想。
 
-[给butterfly添加不一样的友链](https://anzhiy.cn/posts/292d.html) - 安知鱼
+[给butterfly添加不一样的友链](https://blog.anheyu.com/posts/292d.html) - 安知鱼
 
 > 前半部分偷懒直接把店长的复制过来了。
 >

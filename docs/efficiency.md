@@ -18,7 +18,7 @@
 
 > 自从2021年12月20日，jsdelivr因为“**某些原因**”，在大陆和台湾的ICP证书被吊销。可以说，这让国内的开发生态瞬间天塌一般。目前，虽然jsdelivr已经恢复了服务，但是这只是通过在“**中国附件**”的节点提供的CDN加速服务，速度上还不如放到本地。这种反向加速的CDN服务，我们已经可以认为jsdelivr已经挂了。
 
-[使用 Github Action 自动部署](https://anzhiy.cn/posts/asdx.html) - 安知鱼
+[使用 Github Action 自动部署](https://blog.anheyu.com/posts/asdx.html) - 安知鱼
 
 > 此教程参考 🧊Akilar の糖果屋 🍭，转载需注明出处。Github Action 简介
 > Github Action 是 GitHub 于 2018 年 10 月推出的一个 CI\CD 服务。
@@ -64,7 +64,7 @@
 
 重新安装主题的方法。
 
-[butterfly 重装指南](https://anzhiy.cn/posts/sdxhu.html) - 安知鱼
+[butterfly 重装指南](https://blog.anheyu.com/posts/sdxhu.html) - 安知鱼
 
 > npm淘宝镜像源
 >
@@ -75,9 +75,11 @@
 [Buttterfly重装记录 - 数据记录](https://meuicat.com/blog/3/) - 爱吃肉的猫
 
 > 在原本的项目上 进行Hexo的升级 和插件依赖的更新
-
+>
 > 升级前请 备份！ 备份！ 备份！
+>
 > 有较大的改动一定要备份 而且更新Hexo存在很多不可控因素 哪怕更新成功了也一定要保留一份备份以备不时之需
+>
 > 做好备份就可以开始更新框架工作
 
 ## 图床

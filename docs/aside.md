@@ -45,7 +45,7 @@
 
 > NPM 插件安装的部署方法
 
-[给butterfly添加侧边栏电子钟](https://anzhiy.cn/posts/fc18.html) - 安知鱼
+[给butterfly添加侧边栏电子钟](https://blog.anheyu.com/posts/fc18.html) - 安知鱼
 
 > 如果有安装店长的插件版侧边栏电子钟（与店长的电子钟冲突），在博客根目录`[Blogroot]`下打开终端，运行以下指令
 
@@ -95,6 +95,10 @@
 
 >侧边按钮太丑了
 >那就重写一个吧！
+
+[侧边栏破坏小飞机](https://blog.pzai.cloud/posts/1e3a940e/) - Pzai
+
+> 逛博客不得有个有趣的小游戏，看不顺眼就通通消灭~（由于需要键盘操作，所以只能在网页端玩，但是真的上瘾）
 
 ## 侧边栏定制
 

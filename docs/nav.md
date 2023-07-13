@@ -18,7 +18,7 @@
 >
 > OK，那我们开始吧。
 
-[butterfly导航栏修改方案](https://anzhiy.cn/posts/8e53.html) - 安知鱼
+[butterfly导航栏修改方案](https://blog.anheyu.com/posts/8e53.html) - 安知鱼
 
 > 自定义css
 > 添加自定义css nav_menu.css

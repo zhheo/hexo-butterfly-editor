@@ -60,7 +60,7 @@
 
 > 本教程，可以让你在hexo中体验到github的代码高亮，总体来说十分的好看。
 
-[butterfly文章顶部添加波浪效果](https://anzhiy.cn/posts/98c4.html) - 安知鱼
+[butterfly文章顶部添加波浪效果](https://blog.anheyu.com/posts/98c4.html) - 安知鱼
 
 > 大功告成，需要注意的是 css 中`fill属性`可以控制波浪颜色，最好使其中一个颜色与背景颜色一致，否则会显的有点奇怪。
 

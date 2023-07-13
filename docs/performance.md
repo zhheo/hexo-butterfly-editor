@@ -18,7 +18,7 @@
 
 让你的博客拥有CDN加速。
 
-[目前可用cdn整理](https://anzhiy.cn/posts/fe76.html) - 安知鱼
+[目前可用cdn整理](https://blog.anheyu.com/posts/fe76.html) - 安知鱼
 
 > 可用npm镜像
 > jsDelivr
@@ -75,7 +75,7 @@
 
 只在滚动到图片时加载图片。
 
-[butterfly控制特定图片懒加载](https://anzhiy.cn/posts/192f.html) - 安知鱼
+[butterfly控制特定图片懒加载](https://blog.anheyu.com/posts/192f.html) - 安知鱼
 
 > 经常看我博客的同学应该不难发现我的文章顶图偶尔进来以后还要等一会才能出现，还有加载动画的图片偶尔加载不出来，后来经过我一系列的排查发现居然是懒加载的缘故。
 

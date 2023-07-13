@@ -40,7 +40,7 @@
 > 如果你是按照Butterfly官方文档 [Butterfly添加全局吸底Aplayer教程](https://butterfly.js.org/posts/507c070f/) 添加的aplayer  
 > 找到主题配置文件
 
-[butterfly添加蓝天白云](https://ezgx.site/2023/35907/) - Echocbx
+[butterfly添加蓝天白云](https:/uu.sssu.us/archives/18276/) - Echocbx
 
 > 为butterfly主题添加一个蓝天白云特效
 >

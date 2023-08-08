@@ -25,6 +25,13 @@
 
 > 🥴 
 
+## 悬浮组件【悬浮窗口】
+
+[卡片式音乐播放器 | aplayer魔改](https://www.crowhsu.top/posts/637681ac.html) - Charles Hsu
+
+> 如果你是按照Butterfly官方文档 [Butterfly添加全局吸底Aplayer教程](https://butterfly.js.org/posts/507c070f/) 添加的aplayer  
+> 找到主题配置文件
+
 ## 友情链接【样式】
 
 [Hexo博客友链样式修改](https://blog.leonus.cn/2022/link.html) - Leonus
@@ -44,3 +51,19 @@
 [控制台输出字符画-程序员的浪漫](https://hassanwong.top/posts/7a58550e/) - hassanwong
 
 > 不知道友友们逛 B 站时有没有注意到它控制台输出的字符画（正经人逛 B 站谁会按 F12），看完我瞬间嘴角上扬数秒。字符画如彩蛋般的出现在眼前，还能丰富网站的维度，一个优秀的网站也许在某个不起眼的角落也能带给你惊喜。
+
+[新文章通知](https://lizilong.netlify.app/posts/d5b5/) - Zilong Li
+
+> 每次部署新文章时自动通知读者新的文章更新
+
+## 功能【原生功能自定义】
+
+[给博客添加复制提醒](https://blog.trfox.ml/p/71e4d414dfa8/) - Teror Fox
+
+> 本文使用`izitoast`库实现弹窗
+
+## 效率【功能】
+
+[Hexo插件 | 直接复制markdown | 一秒转载](https://www.crowhsu.top/posts/6e818316.html) - Charles Hsu
+
+> 一个Hexo插件，允许你直接从网页复制markdown，主要为butterfly主题开发，但**基本的复制功能是通用的**。

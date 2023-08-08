@@ -23,7 +23,7 @@
 > 自定义css
 > 添加自定义css nav_menu.css
 
-[导航栏魔改美化](https://meuicat.com/blog/42/#%E5%AF%BC%E8%88%AA%E6%A0%8F%E9%AD%94%E6%94%B9%E7%BE%8E%E5%8C%96) - 爱吃肉的猫
+[导航栏魔改美化](https://meuicat.com/blog/42/#%E5%AF%BC%E8%88%AA%E6%A0%8F%E9%AD%94%E6%94%B9%E7%BE%8E%E5%8C%96) - iCat爱吃肉的猫
 
 > 本篇教程基于 `Hexo 6.3.0` & `Butterfly 4.8.5`
 > 参考了洪佬的样式，并适当整改了PE端的侧边栏

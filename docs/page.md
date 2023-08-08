@@ -38,7 +38,7 @@
 > 不支持Waline/Valine
 > 没有鼠标悬停暂停功能
 
-[Twikoo 文章热评弹窗](https://meuicat.com/blog/42/#%E7%83%AD%E8%AF%84%E5%BC%B9%E7%AA%97) - 爱吃肉的猫
+[Twikoo 文章热评弹窗](https://meuicat.com/blog/42/#%E7%83%AD%E8%AF%84%E5%BC%B9%E7%AA%97) - iCat爱吃肉的猫
 
 > 给文章页右下角添加一个热评弹窗
 >
@@ -75,14 +75,14 @@
 > 因为bbtalk默认的样式是时间轴（如图），但是我更喜欢瀑布流的样式（比如洪哥的），所以就写了一个简单的css用于修改样式。
 >
 
-[Artitalk 动态给博客增加说说页面](https://imbhj.com/a028aabe/) - Ordis
+[Artitalk 动态给博客增加说说页面](https://imbhj.com/posts/a028aabe/) - Ordis
 
 > 看到群里大佬都有说说，羡慕的紧，而且自己很早之前就把博客当成自己的秘密小窝，但是自己技术有限，不会搭建，就一直搁置了，昨天在群里看到康纳百川和 flexiston 大佬的，就赶紧去找了插件，骚操作一番，哎嗨，我也有了，有生之年系列，太开心了
 
-[即刻短文【iCat阉割版】](https://meuicat.com/blog/42/#%E5%8D%B3%E5%88%BB%E7%9F%AD%E6%96%87) - 爱吃肉的猫
+[即刻短文](https://meuicat.com/blog/42/#%E5%8D%B3%E5%88%BB%E7%9F%AD%E6%96%87) - iCat爱吃肉的猫
 
-> 对安知鱼的教程做了优化，并调整了样式以及响应的JS处理
-> Butterfly 即刻短文 完全版部署方案 参考 -  [@张洪Heo](https://blog.zhheo.com/)
+> 属于私人的叨叨池，说你想说的；多种部署方式的iCat版动静态即刻短文
+> 本地静态yml部署、动态JSON部署、Memos部署
 
 ### 统计
 
@@ -103,13 +103,13 @@
 
 ### 记录
 
-[聊天记录页](https://meuicat.com/blog/42/#%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E9%A1%B5%E9%9D%A2) - 爱吃肉的猫
+[聊天记录页](https://meuicat.com/blog/42/#%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E9%A1%B5%E9%9D%A2) - iCat爱吃肉的猫
 
 > 每刻の感动瞬间 - 记录 文字的力量
 
 ## 影视
 
-[Hexo 博客增加哔哩哔哩追番页面](https://imbhj.com/7ef0253b/) - Ordis
+[Hexo 博客增加哔哩哔哩追番页面](https://imbhj.com/posts/7ef0253b/) - Ordis
 
 > 在站点的配置文件 `_config.yml` 里添加：
 
@@ -127,14 +127,14 @@
 > 就会发现一个很大的问题——致谢板块的打赏按钮无法使用
 > 为此12月21日一整天，我都在找解决方案...
 
-[关于页面魔改](https://meuicat.com/blog/42/#%E5%85%B3%E4%BA%8E%E9%A1%B5%E7%BE%8E%E5%8C%96) - 爱吃肉的猫
+[关于页面魔改](https://meuicat.com/blog/42/#%E5%85%B3%E4%BA%8E%E9%A1%B5%E7%BE%8E%E5%8C%96) - iCat爱吃肉的猫
 
 > 整合了Styl样式
 > 对HiPeach的教程做了整改优化，并调整了样式以及响应的JS处理
 
 ## 好物
 
-[好物推荐页](https://meuicat.com/blog/42/#%E5%A5%BD%E7%89%A9%E6%8E%A8%E8%8D%90%E9%A1%B5) - 爱吃肉的猫
+[好物推荐页](https://meuicat.com/blog/42/#%E5%A5%BD%E7%89%A9%E6%8E%A8%E8%8D%90%E9%A1%B5) - iCat爱吃肉的猫
 
 > 参考 [@林木木木](https://immmmm.com/)
 > 适配yml静态以及json和memos
@@ -184,7 +184,7 @@
 
 > 新建`[Blogroot]\themes\butterfly\scripts\helpers\ark_tag.js`,这个的功能就是按照hexo给的tag数据集编译出我们需要的tag单元。
 
-[页面顶部banner栏](https://meuicat.com/blog/36/#%E9%AD%94%E6%94%B9%E9%A1%B5%E5%89%8D%E7%BD%AE) - 爱吃肉的猫
+[页面顶部banner栏](https://meuicat.com/blog/36/#%E9%AD%94%E6%94%B9%E9%A1%B5%E5%89%8D%E7%BD%AE) - iCat爱吃肉的猫
 
 > 给页面定制个banner栏，可在文章配置项里配置是否显示
 > 样式参考 [@张洪Heo](https://blog.zhheo.com/)

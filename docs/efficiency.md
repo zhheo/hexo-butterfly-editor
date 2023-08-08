@@ -72,7 +72,7 @@
 >
 > npm config set registry https://registry.npmjs.org/
 
-[Buttterfly重装记录 - 数据记录](https://meuicat.com/blog/3/) - 爱吃肉的猫
+[Buttterfly重装记录 - 数据记录](https://meuicat.com/blog/3/) - iCat爱吃肉的猫
 
 > 在原本的项目上 进行Hexo的升级 和插件依赖的更新
 >
@@ -102,12 +102,6 @@
 
 ## 订阅
 
-[安装 RSS 插件实现订阅](https://imbhj.com/c2535796/) - Ordis
+[安装 RSS 插件实现订阅](https://imbhj.com/posts/c2535796/) - Ordis
 
 > 因为我是 Butterfly 主题，所以已经集成了 rss 功能，所以设置到这一步就可以了。如果你的主题里面没有 rss 相关设置，也可以添加如下代码：
-
-## 功能
-
-[Hexo插件 | 直接复制markdown | 一秒转载](https://www.crowhsu.top/posts/6e818316.html) - Charles Hsu
-
-> 一个Hexo插件，允许你直接从网页复制markdown，主要为butterfly主题开发，但**基本的复制功能是通用的**。

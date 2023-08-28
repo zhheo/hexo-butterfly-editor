@@ -32,7 +32,7 @@
 
 ### 必要配置
 
-[Hexo 博客生成永久链接](https://imbhj.com/b6a99401/) - Ordis
+[Hexo 博客生成永久链接](https://imbhj.com/posts/b6a99401/) - Ordis
 
 > Hexo 文章链接默认的生成规则是：`:year/:month/:day/:title`，是按照年、月、日、标题来生成的。
 >

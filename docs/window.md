@@ -35,12 +35,7 @@
 
 > 虽然这个悬浮窗实现并不复杂，不过对于这种基本不懂前端开发，只会照葫芦画瓢的人来说还是比较有难度的，用了一下午才把悬浮窗弄好。 开发中也遇到了不少问题（不然也不会花这么长时间），难为我最长时间的就是悬浮窗内部元素的排版了，光想办法把按钮放在右边，提示文本放在左边就花费了至少一个小时。
 
-[卡片式音乐播放器 | aplayer魔改](https://www.crowhsu.top/posts/637681ac.html) - Charles Hsu
-
-> 如果你是按照Butterfly官方文档 [Butterfly添加全局吸底Aplayer教程](https://butterfly.js.org/posts/507c070f/) 添加的aplayer  
-> 找到主题配置文件
-
-[butterfly添加蓝天白云](https:/uu.sssu.us/archives/18276/) - Echocbx
+[butterfly添加蓝天白云](http://uu.sssu.us/archives/18276/) - Aegcbx
 
 > 为butterfly主题添加一个蓝天白云特效
 >
@@ -66,7 +61,7 @@
 
 > 最早的时候看别人的博客很多都有一个可爱的看板娘，然后就找了教程给自己也整了一个。因为找到的教程都是稂莠不齐的，原作者自己说的也略显含糊（其实是我自己看不懂）。总之秉承着一如既往的小白风格。把网上的教程做个整合。
 
-[博客看板娘增强版](https://imbhj.com/37579d1/) - Ordis
+[博客看板娘增强版](https://imbhj.com/posts/37579d1/) - Ordis
 
 > 之前我写过一篇关于 hexo 博客插入 live2d 的教程，传送门：让你的博客充满生气之 Live2D
 >

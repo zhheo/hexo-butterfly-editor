@@ -52,9 +52,9 @@
 
 > 折腾一晚上，终于完成了～之前一直都有兼容性问题，折腾了几个小时搞定。因为网上也没有针对Butterfly的教程，整理的时候总是与Lazyload和pjax还有fancybox有兼容性问题。目前博客运行良好，遇到的问题都解决了。下面来说一下教程。
 
-[新文章通知](https://lizilong.netlify.app/posts/d5b5/) - Zilong Li
+[Follow文章订阅通知](https://meuicat.com/blog/42/#%E8%AE%A2%E9%98%85%E9%A1%B5) - iCat爱吃肉的猫
 
-> 每次部署新文章时自动通知读者新的文章更新
+> Heo同款RSS页；内附Follow文章订阅功能
 
 ## 原生功能自定义
 
@@ -65,10 +65,6 @@
 > 之前自己的网页pjax时灵时不灵，真的是奇了怪了。研究了一下pjax的文档，发现很多东西都是用的有问题，因为最开始魔改页面的时候都没注意过pjax，所以留下了大量屎山代码。
 >
 > 这个文章可以更好的帮助你去魔改页面，并且保留pjax。
-
-[给博客添加复制提醒](https://blog.trfox.ml/p/71e4d414dfa8/) - Teror Fox
-
-> 本文使用`izitoast`库实现弹窗
 
 ## 自定义功能定制
 

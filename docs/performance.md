@@ -40,7 +40,7 @@
 
 网站可以变成APP。
 
-[Hexo 博客开启 PWA 功能](https://imbhj.com/cecbe2d2/) - Ordis
+[Hexo 博客开启 PWA 功能](https://imbhj.com/posts/cecbe2d2/) - Ordis
 
 > 使用前先了解一下什么是 PWA：
 >
@@ -81,7 +81,7 @@
 
 ## 预加载
 
-[速度优化-css预加载](https://ezgx.tk/2023/47635/) - Echocbx
+[速度优化-css预加载](http://uu.sssu.us/archives/47635/) - Aegcbx
 
 > Ecx-project进行的过程中
 > 发现了一个问题

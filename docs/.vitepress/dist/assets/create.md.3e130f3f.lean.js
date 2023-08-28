@@ -1,0 +1,1 @@
+import{_ as e,o,c as a,Q as r}from"./chunks/framework.18efe07a.js";const k=JSON.parse('{"title":"从零开始","description":"","frontmatter":{},"headers":[],"relativePath":"create.md","filePath":"create.md"}'),t={name:"create.md"},l=r("",36),p=[l];function h(s,n,c,i,b,d){return o(),a("div",null,p)}const f=e(t,[["render",h]]);export{k as __pageData,f as default};

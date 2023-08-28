@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,Q as o}from"./chunks/framework.18efe07a.js";const f=JSON.parse('{"title":"导航栏","description":"","frontmatter":{},"headers":[],"relativePath":"nav.md","filePath":"nav.md"}'),r={name:"nav.md"},c=o("",12),l=[c];function p(s,n,_,h,i,u){return t(),a("div",null,l)}const b=e(r,[["render",p]]);export{f as __pageData,b as default};

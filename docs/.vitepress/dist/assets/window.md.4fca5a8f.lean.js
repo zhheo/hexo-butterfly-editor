@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as r,Q as a}from"./chunks/framework.48879250.js";const f=JSON.parse('{"title":"悬浮组件","description":"","frontmatter":{},"headers":[],"relativePath":"window.md","filePath":"window.md"}'),o={name:"window.md"},l=a("",61),p=[l];function s(c,b,h,n,u,i){return t(),r("div",null,p)}const d=e(o,[["render",s]]);export{f as __pageData,d as default};

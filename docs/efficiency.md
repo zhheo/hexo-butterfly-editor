@@ -35,6 +35,10 @@
 >
 > 这是因为 `git` 在推送更新的时候不会保存文件的访问时间、修改时间等元信息。
 
+[将CDN缓存自动刷新加入到Hexo博客发布的工作流](https://uuanqin.top/p/b05ac1ee/) - wuanqin
+
+> 这篇文章介绍了如何通过脚本实现一键发布博客的方法，以及如何使用腾讯云SDK工具进行开发和安全使用API KEY。作者介绍了在使用CDN加速源站时，每次发布博客到服务器后需要手动在腾讯云控制台进行节点缓存刷新的问题，并通过脚本思路来解决这个问题。文章末尾包含了编写的脚本原件。同时，文章还介绍了在使用Hexo博客建站时常用的三个命令的含义。
+
 ## 统计
 
 [51la统计体验报告：很全面的惊喜，Butterfly适配51la统计](https://blog.zhheo.com/p/c7c43433.html) - 张洪Heo
@@ -105,3 +109,10 @@
 [安装 RSS 插件实现订阅](https://imbhj.com/posts/c2535796/) - Ordis
 
 > 因为我是 Butterfly 主题，所以已经集成了 rss 功能，所以设置到这一步就可以了。如果你的主题里面没有 rss 相关设置，也可以添加如下代码：
+
+## 写作
+
+[构建Obsidian的Hexo写作工作流](https://uuanqin.top/p/51890a9/) - wuanqin
+
+> 这篇文章介绍了如何使用Obsidian来构建Hexo写作工作流。作者介绍了选择Obsidian的原因，以及使用该工具的快捷键、文章模板、图床、文件夹分类等基本设置。同时，作者还详细讲解了Obsidian特有的双向链接渲染和安装第三方插件link-info-server，以及如何使用Hexo的第三方插件hexo-abbrlink和hexo-link-obsidian来实现工作流的完整性。最后作者还讲解了放弃Typora的理由，并总结了使用Obsidian的优势。
+>

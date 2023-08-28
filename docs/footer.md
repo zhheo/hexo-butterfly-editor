@@ -42,3 +42,7 @@
 [页脚插件版](https://blog.marcus233.top/p/footer.html) - Marcus
 
 > 本地版请见(页脚美化）
+
+[Butterfly自定义页脚（不修改主题源码）](https://uuanqin.top/p/91b7dad/) - wuanqin
+
+> 这篇文章介绍了如何使用CodePen项目来定制Butterfly主题的页脚。作者给出了使用CodePen项目的方法，并展示了几个可供选择的项目样式。具体操作包括将CodePen项目中的内容填入主题配置文件的custom_text字段，将项目样式复制到新建的CSS文件中，并在主题配置文件中进行注入。文章提到，这种方法适用于高级定制，不仅限于写入版权信息和备案号。

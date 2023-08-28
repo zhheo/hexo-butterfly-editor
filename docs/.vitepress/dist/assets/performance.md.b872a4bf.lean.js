@@ -1,0 +1,1 @@
+import{_ as e,o as r,c as a,Q as t}from"./chunks/framework.48879250.js";const k=JSON.parse('{"title":"性能","description":"","frontmatter":{},"headers":[],"relativePath":"performance.md","filePath":"performance.md"}'),o={name:"performance.md"},p=t("",39),l=[p];function n(s,c,h,b,i,f){return r(),a("div",null,l)}const d=e(o,[["render",n]]);export{k as __pageData,d as default};

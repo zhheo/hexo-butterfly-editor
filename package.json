@@ -1,1 +1,11 @@
-{"scripts":{"docs:build":"vuepress build docs","docs:dev":"vuepress dev docs"},"devDependencies":{"vuepress":"^1.9.9"}}
+{
+  "scripts": {
+    "docs:build": "vitepress build docs",
+    "docs:dev": "vitepress dev docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0-rc.9",
+    "vuepress": "^1.9.9"
+  }
+}

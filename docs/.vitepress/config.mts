@@ -5,7 +5,16 @@ export default defineConfig({
   title: "Butterfly主题美化教程",
   description: "让每个人轻松的自定义自己的博客",
   head: [
-    ['link', { rel: 'icon', href: '/favicon.png' }]
+    ['link', { rel: 'icon', href: '/favicon.png' }],
+    ['script', {}, `
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?0dd41b1b62d383747c5f3a7d4a4c6816";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+`]
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config

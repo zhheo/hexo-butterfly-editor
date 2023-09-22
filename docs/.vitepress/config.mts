@@ -20,11 +20,16 @@ var _hmt = _hmt || [];
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
-      { text: '查看文档', link: '/Introduction' }
+      { text: '查看文档', link: '/Introduction' },
     ],
 
     search: {
       provider: 'local'
+    },
+
+    footer: {
+      message: 'Released under the Apache-2.0 license',
+      copyright: 'Copyright © 2022 张洪Heo'
     },
 
     sidebar: [

@@ -46,3 +46,7 @@
 [Butterfly自定义页脚（不修改主题源码）](https://uuanqin.top/p/91b7dad/) - wuanqin
 
 > 这篇文章介绍了如何使用CodePen项目来定制Butterfly主题的页脚。作者给出了使用CodePen项目的方法，并展示了几个可供选择的项目样式。具体操作包括将CodePen项目中的内容填入主题配置文件的custom_text字段，将项目样式复制到新建的CSS文件中，并在主题配置文件中进行注入。文章提到，这种方法适用于高级定制，不仅限于写入版权信息和备案号。
+
+[Hexo + Butterfly 自定义页脚](https://fe32.top/articles/hexo1617/) - Ethan.Tzy
+
+> 这里用 4.5.1 版本跑了【自定义页脚】的功能，主题是新拉的，可能未过多美化，只是为了验证下该功能有没有问题。如果你在使用此功能时遇见了 BUG ，请检查footer.pug的格式以及custom.css是否正确引入。

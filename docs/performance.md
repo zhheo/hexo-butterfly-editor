@@ -36,6 +36,10 @@
 
 > 使用Vercel部署博客网页，进一步提高访问速度
 
+[Swpp Backends 官方文档：小白也能用的 SW 构建插件](https://kmar.top/posts/b70ec88f/) - 山岳库博
+
+> swpp-backends（以下简称 swpp）插件的功能是为网站生成一个高度可用的 ServiceWorker（以下简称 SW），为网站优化二次加载、提供离线体验、提高可靠性，并为此附带了一些其它的功能。
+
 ## PWA
 
 网站可以变成APP。
@@ -52,6 +56,12 @@
 
 > PWA 是 Google 于 2016 年提出的概念，于 2017 年正式落地，于 2018 年迎来重大突破，全球顶级的浏览器厂商，Google、Microsoft、Apple 已经全数宣布支持 PWA 技术。
 > PWA 全称为 Progressive Web App，中文译为渐进式 Web APP，其目的是通过各种 Web 技术实现与原生 App 相近的用户体验。
+
+[让网页支持iOS添加到主屏幕全屏应用，webapp启动图生成工具](https://blog.zhheo.com/p/b737e93d.html) - 张洪heo
+
+> 这次写一个提升网页体验的魔改教程吧！因为比较喜欢打开APP的感觉，但是为了博客做一个app显然是大材小用了。毕竟也不是社交媒体社区之类的。所以一个简单的类似应用内一样的app是最好的。
+>
+> 这里展示的是Hexo的Butterfly主题的修改方法。其他网页的修改方法大同小异，无非是head标签里面添加一些meta和link代码。
 
 ## PJAX
 

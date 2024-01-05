@@ -2,11 +2,25 @@
 
 那些曾为本站做出贡献的小伙伴，我们一直欢迎你回来！
 
+## 加载动画【动画样式】
+
+[纯CSS给博客加上原神启动](https://vacuole.top/p/dc4d56c2.html) - VacuolePao
+
+> 今天看到了泽泽社长给xLog添加原神启动的文章，实现方法非常简单，所以搞到了VacuoleBlog上。获取原神SVG
+> 为了在启动时显示原神logo，我们需要获取原神的SVG文件。SVG是可缩放的矢量图，可以确保在任何屏幕上都显示清晰。
+>
+
 ## 首页【组件】
 
 [hexo-butterfly-首页改造](https://blog.holic-x.com/wv-blog/post/c9f9cd5d.html) - holic-x
 
 > 本篇文章距离上次更新已有 225 天, 篇中部分内容可能需做相应更新咯，如有问题请及时滴滴站长.
+
+## 文章【新的页面组件】
+
+[Github样式代码高亮并上传到gist](https://blog.xlenco.top/posts/8fce.html) - Xlenco
+
+> 本教程，可以让你在hexo中体验到github的代码高亮，总体来说十分的好看。
 
 ## 文章【邮件模板】
 

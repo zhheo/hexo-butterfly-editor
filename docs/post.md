@@ -20,6 +20,18 @@
 > 然后我就想到写一个标签外挂来实现这个效果。
 > 趁昨天下午休息的时间完成了大部分功能（包括 [藏宝阁](https://blog.leonus.cn/stars/) 页面，毕竟写标签外挂就是为了这个页面服务的），今天进行了一些完善并发布此教程。
 
+[hexo-tag-echarts-plus外挂标签插件](https://naokuo.top/posts/336fb21e/) - NaoKuo
+
+> 本教程介绍了如何在博客中使用ApacheECharts开源可视化图表库。
+
+[中文版外挂标签](https://myxiaochuang.gitee.io/posts/7d73fc91/) - NaoKuo
+
+> 理论上兼容原来的英文书写，但参数请不要混合书写
+
+[外挂标签VSCode代码片段使用](https://naokuo.top/posts/2b609159/) - NaoKuo
+
+> 本教程介绍了如何在博客中使用VS Code 代码片段使用。
+
 ## 新的页面组件
 
 魔改作者自己创造的页面组件，原主题并没有改功能。

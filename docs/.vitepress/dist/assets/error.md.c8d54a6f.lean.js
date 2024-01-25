@@ -1,1 +1,0 @@
-import{_ as e,o as a,c as r,Q as t}from"./chunks/framework.18efe07a.js";const f=JSON.parse('{"title":"失联列表","description":"","frontmatter":{},"headers":[],"relativePath":"error.md","filePath":"error.md"}'),o={name:"error.md"},l=t("",39),h=[l];function n(s,p,c,b,u,i){return a(),r("div",null,h)}const k=e(o,[["render",n]]);export{f as __pageData,k as default};

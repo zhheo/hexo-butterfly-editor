@@ -2,6 +2,18 @@
 
 那些曾为本站做出贡献的小伙伴，我们一直欢迎你回来！
 
+## 从零开始【创建文章】
+
+[Markdown 教程](https://blog.jayhrn.com/posts/c079e252.html) - Jayhrn
+
+> Markdown 是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档。
+>
+> Markdown 语言在 2004 由约翰・格鲁伯（英语：John Gruber）创建。
+>
+> Markdown 编写的文档可以导出 HTML 、Word、图像、PDF、Epub 等多种格式的文档。
+>
+> Markdown 编写的文档后缀为 .md, .markdown。
+
 ## 加载动画【动画样式】
 
 [纯CSS给博客加上原神启动](https://vacuole.top/p/dc4d56c2.html) - VacuolePao

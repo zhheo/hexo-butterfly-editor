@@ -44,16 +44,6 @@
 
 > 在根目录下打开终端,使用 hexo new post新建一篇文章。可以在/source/_post/目录下找到新建的文章。可以通过修改/scaffolds/post.md的模板内容来改变默认生成的文章格式。
 
-[Markdown 教程](https://blog.jayhrn.com/posts/c079e252.html) - Jayhrn
-
-> Markdown 是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档。
->
-> Markdown 语言在 2004 由约翰・格鲁伯（英语：John Gruber）创建。
->
-> Markdown 编写的文档可以导出 HTML 、Word、图像、PDF、Epub 等多种格式的文档。
->
-> Markdown 编写的文档后缀为 .md, .markdown。
-
 [建立个人博客（四）—— md文章&编辑器](https://sheerkvc.top/2022/08/30/11.markdown&typora/) - Kevin Chen
 
 > 我们现在要开始一个博客最主体的部分——***文章***，而博客的文章通常都是.md文件转码为html，因此我们需要了解和学会markdown相关的语法及如何使用编辑器。

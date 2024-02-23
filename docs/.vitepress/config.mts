@@ -29,7 +29,7 @@ var _hmt = _hmt || [];
 
     footer: {
       message: 'Released under the Apache-2.0 license',
-      copyright: 'Copyright © 2022 张洪Heo'
+      copyright: 'Copyright © 2022 张洪Heo 京ICP备19051325号-2'
     },
 
     sidebar: [

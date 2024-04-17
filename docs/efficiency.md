@@ -45,6 +45,25 @@
 > 就转向了[阿里的工作流](https://help.aliyun.com/document_detail/159666.htm)，好看很多且界面操作也简单了许多，缺点就是个人使用实在是没必要，企业的话用起来还是很爽的。
 > 再后来看到店长的文章以后就开始使用 Github Action，具体可以去看这篇文章 - [使用 Github Action 自动部署](https://blog.anheyu.com/posts/b228.html)
 
+[使用 Netlify，cloudflare pages，GitHub pages , Vercel ，Render，Zeabur部署你的 Hexo](https://blog.w1ndys.top/posts/fbbdb8eb)
+
+> 在我从一开始的 GitHub pages 转到 Netlify，如今又搭建了 cloudflare，但万变不离其宗，没有服务器，选择静态部署平台，pages 给我们提供了很好的平台途径
+> 我也是踩了不少的坑，下面将从 Netlify，cloudflare,Vercel，Render，Zeabur等讲解如何部署。
+> 这个方法的好处：
+> Hexo 源码基于 Github 仓库构建、源码文件全部云端存储、多设备无缝衔接同步编辑、多端站点，择优部署、部署方法基本一致，学会一个就基本都学会了
+
+
+作者: W1ndys
+链接: https://blog.w1ndys.top/posts/fbbdb8eb#%E4%BD%BF%E7%94%A8-netlify-cloudflare-pages-github-pages-vercel-%E9%83%A8%E7%BD%B2%E4%BD%A0%E7%9A%84-hexo
+来源: W1ndysの小屋
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
+
+作者: W1ndys
+链接: https://blog.w1ndys.top/posts/fbbdb8eb#/
+来源: W1ndysの小屋
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
 ## 统计
 
 [51la统计体验报告：很全面的惊喜，Butterfly适配51la统计](https://blog.zhheo.com/p/c7c43433.html) - 张洪Heo

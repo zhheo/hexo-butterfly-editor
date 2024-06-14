@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,Q as r}from"./chunks/framework.385ac4c3.js";const k=JSON.parse('{"title":"效率","description":"","frontmatter":{},"headers":[],"relativePath":"efficiency.md","filePath":"efficiency.md"}'),a={name:"efficiency.md"},l=r("",60),p=[l];function n(h,c,b,s,i,u){return t(),o("div",null,p)}const d=e(a,[["render",n]]);export{k as __pageData,d as default};

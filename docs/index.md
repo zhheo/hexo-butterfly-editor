@@ -15,7 +15,7 @@ hero:
       text: 添加QQ频道
       link: https://pd.qq.com/s/c0cy521vs
   image:
-    src: https://bu.dusays.com/2023/03/03/6401a7934a918.png
+    src: /img/logo.webp
 
 features:
   - title: 教程合集

@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as r,Q as o}from"./chunks/framework.385ac4c3.js";const i=JSON.parse('{"title":"侧边栏","description":"","frontmatter":{},"headers":[],"relativePath":"aside.md","filePath":"aside.md"}'),a={name:"aside.md"},p=o("",50),l=[p];function c(s,n,b,h,k,u){return t(),r("div",null,l)}const d=e(a,[["render",c]]);export{i as __pageData,d as default};

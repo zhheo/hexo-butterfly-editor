@@ -44,11 +44,9 @@
 
 > 在根目录下打开终端,使用 hexo new post新建一篇文章。可以在/source/_post/目录下找到新建的文章。可以通过修改/scaffolds/post.md的模板内容来改变默认生成的文章格式。
 
-[建立个人博客（四）—— md文章&编辑器](https://sheerkvc.top/2022/08/30/11.markdown&typora/) - Kevin Chen
+[md书写格式](https://hexo.dreamerhe.cn/posts/45290/) - 追梦小何
 
-> 我们现在要开始一个博客最主体的部分——***文章***，而博客的文章通常都是.md文件转码为html，因此我们需要了解和学会markdown相关的语法及如何使用编辑器。
-
-
+> 总结了一些简单的和一些稍微好用的MD书写语法，适合刚入坑的友友
 
 ## 创建自定义文件（魔改的开始）
 

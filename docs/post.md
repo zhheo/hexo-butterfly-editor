@@ -219,6 +219,10 @@
 > 调整了`Twikoo`评论区的样式
 > 调整在夜间模式下管理的显示问题
 
+[Hexo 博客与 Waline 评论区实现外链跳转中间页](https://uuanqin.top/p/e1ee5eca/) - wuanqin
+
+> 安装博主自写插件实现 Waline 评论区外部链接跳转到中间页。利用插件的拓展功能可定制中间页链接格式，以配合其他的中间页插件。
+
 ### 邮件模板
 
 [Twikoo评论回复邮件模板：Acrylic Mail 粉](https://blog.zhheo.com/p/169a1abb.html) - 张洪Heo

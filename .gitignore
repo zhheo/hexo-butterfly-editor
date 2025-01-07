@@ -3,5 +3,3 @@ node_modules
 .DS_Store
 .env
 /docs/.vitepress/dist
-/docs/.vitepress/dist
-/docs/.vitepress/dist

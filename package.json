@@ -3,7 +3,7 @@
     "docs:build": "vitepress build docs",
     "docs:dev": "vitepress dev docs",
     "docs:preview": "vitepress preview docs",
-    "docs:deploy": "vitepress build docs && rsync -avz --progress --chmod=755 ./docs/.vitepress/dist root@$SERVER_IP:/www/wwwroot/butterfly.zhheo.com/"
+    "docs:deploy": "vitepress build docs && rsync -avz --progress --chmod=755 ./docs/.vitepress/dist root@116.196.68.153:/www/wwwroot/butterfly.zhheo.com/"
   },
   "devDependencies": {
     "vitepress": "^1.5.0"

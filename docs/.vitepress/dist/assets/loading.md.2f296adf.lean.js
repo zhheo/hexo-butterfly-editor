@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as o,Q as a}from"./chunks/framework.385ac4c3.js";const _=JSON.parse('{"title":"加载动画","description":"","frontmatter":{},"headers":[],"relativePath":"loading.md","filePath":"loading.md"}'),r={name:"loading.md"},l=a("",20),p=[l];function n(c,h,s,i,d,b){return t(),o("div",null,p)}const k=e(r,[["render",n]]);export{_ as __pageData,k as default};

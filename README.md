@@ -8,6 +8,8 @@
 
 `yarn docs:dev`
 
-## 部署
+## 提交（非仓库管理请忽略）
 
-`yarn docs:build`
+`yarn docs:deploy`
+
+首次部署需要配置`.env`文件，设置`SERVER_IP=服务器地址`

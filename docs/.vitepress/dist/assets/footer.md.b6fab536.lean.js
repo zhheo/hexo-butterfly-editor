@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as o,Q as r}from"./chunks/framework.385ac4c3.js";const i=JSON.parse('{"title":"页脚","description":"","frontmatter":{},"headers":[],"relativePath":"footer.md","filePath":"footer.md"}'),a={name:"footer.md"},p=r("",22),l=[p];function n(s,c,h,f,u,b){return t(),o("div",null,l)}const _=e(a,[["render",n]]);export{i as __pageData,_ as default};
